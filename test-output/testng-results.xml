@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17225" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17225" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
+      <class name="com.smarteinc.salesforce.ui.CreateCustomFields">
+        <test-method status="PASS" signature="initializemanager()[pri:0, instance:com.smarteinc.salesforce.ui.CreateCustomFields@10d59286]" name="initializemanager" is-config="true" duration-ms="17214" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializemanager -->
+      </class> <!-- com.smarteinc.salesforce.ui.CreateCustomFields -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

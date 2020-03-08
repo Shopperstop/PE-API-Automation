@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 34.177 s <<< FAILURE! - in TestSuite
+GenericPEAPIMatchBackTestSet2(com.smarteinc.api.tests.MatchBackTest)  Time elapsed: 28.311 s  <<< FAILURE!
+java.lang.AssertionError: PE API script has failed
+	at com.smarteinc.api.tests.MatchBackTest.GenericPEAPIMatchBackTestSet2(MatchBackTest.java:226)
+
+GenericPEAPIMatchBackTestSet1(com.smarteinc.api.tests.MatchBackTest)  Time elapsed: 29.007 s  <<< FAILURE!
+java.lang.AssertionError: PE API script has failed
+	at com.smarteinc.api.tests.MatchBackTest.GenericPEAPIMatchBackTestSet1(MatchBackTest.java:149)
+
