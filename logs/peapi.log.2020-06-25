@@ -1,0 +1,120 @@
+2020-06-25 14:07:11,156 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-06-25 14:07:11,177 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-06-25 14:07:11,301 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,304 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,306 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,308 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,310 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,313 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,322 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,330 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,343 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,349 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,353 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,354 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,361 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,367 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,371 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,378 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,380 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,381 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,382 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,384 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,389 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,408 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,421 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,436 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,458 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 14:07:11,491 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-06-25 14:07:11,517 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-06-25 16:20:27,563 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 16:20:27,584 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 16:20:27,691 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,691 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,692 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,693 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,691 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,697 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,698 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,707 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,713 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,713 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,728 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,739 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,739 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,744 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,750 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,753 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,756 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,756 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,755 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,758 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,764 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,764 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,768 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,771 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,772 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 16:20:27,773 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 16:20:27,790 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 17:38:07,944 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 17:38:07,990 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 17:38:08,094 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,096 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,098 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,099 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,100 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,105 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,106 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,106 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,111 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,114 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,152 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,153 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,154 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,152 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,155 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,163 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,171 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,176 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,179 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,181 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,186 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,189 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,190 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,193 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,193 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 17:38:08,193 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 17:38:08,211 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\EmailTranalyzer-input.csv
+2020-06-25 18:47:27,199 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\EmailHandling.csv
+2020-06-25 18:47:27,219 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\EmailHandling.csv
+2020-06-25 18:47:27,657 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:31,249 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:32,566 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:32,593 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:33,143 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:33,223 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:34,035 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:35,438 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:36,199 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:38,596 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:38,597 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:38,618 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"piid":"ObjectId0021Account","contactGuid":"","contactEmail":"martin.kaloudis@deutschebahn.com","contactFirstName":"Martin","companyName":"DB Mobility Logistics AG","companyGuid":"","contactJobTitle":"","companyWebAddress":"","objectType":"Account","recordId":"EmailHand021","accountId":"AccountId0021Object","contactState":"","contactFullName":"","phone":"","contactUrl":"","contactLastName":"Kaloudis","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-06-25 18:47:38,629 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"piid":"ObjectId0022Contact","contactGuid":"","contactEmail":"marcelo.palmeiro@clover.co.za","contactFirstName":"Marcelo","companyName":"Clover South Africa","companyGuid":"","contactJobTitle":"","companyWebAddress":"","objectType":"Contact","recordId":"EmailHand022","accountId":"AccountId0022Object","contactState":"","contactFullName":"","phone":"","contactUrl":"","contactLastName":"Palmeiro","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-06-25 18:47:38,635 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"piid":"ObjectId0023Lead","contactGuid":"","contactEmail":"angeloc@miltenyibiotec.de","contactFirstName":"","companyName":"Clover South Africa","companyGuid":"","contactJobTitle":"","companyWebAddress":"","objectType":"Lead","recordId":"EmailHand023","accountId":"AccountId0023Object","contactState":"","contactFullName":"Marcelo Palmeiro","phone":"","contactUrl":"","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-06-25 18:47:38,645 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"piid":"ObjectId0024Lead","contactGuid":"","contactEmail":"gauge@apmfrance.com","contactFirstName":"M","companyName":"APM","companyGuid":"","contactJobTitle":"","companyWebAddress":"","objectType":"Lead","recordId":"EmailHand024","accountId":"AccountId0024Object","contactState":"","contactFullName":"M GUILLAUME","phone":"","contactUrl":"","contactLastName":"GUILLAUME","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-06-25 18:47:38,777 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:41,484 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:42,744 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:42,940 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:45,792 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:46,281 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:46,769 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:47,234 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:48,199 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:50,452 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:52,996 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:58,042 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:47:59,024 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:49:04,056 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-25 18:49:04,056 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\EmailHandling.csv
+2020-06-25 18:49:04,099 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\EmailHandling.csv

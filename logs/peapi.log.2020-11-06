@@ -1,0 +1,9 @@
+2020-11-06 15:06:57,722 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\Failed.csv
+2020-11-06 15:06:57,747 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\Failed.csv
+2020-11-06 15:06:59,857 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-11-06 15:06:59,857 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-11-06 15:07:00,013 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-11-06 15:07:00,185 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-11-06 15:07:00,653 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-11-06 15:07:00,653 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\Failed.csv
+2020-11-06 15:07:00,716 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\Failed.csv

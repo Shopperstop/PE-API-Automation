@@ -1,0 +1,105 @@
+2020-08-14 12:13:35,728 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\DFM diacritic_input.csv
+2020-08-14 12:13:35,771 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\DFM diacritic_input.csv
+2020-08-14 12:13:35,818 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Joachim","companyName":"WM Datenservice","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"SD_12","contactFullName":"","contactUrl":"","contactLastName":"Kölling","contactCountry":"Germany","contactMiddleName":""}
+2020-08-14 12:13:35,818 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"josue.castanon@derevo.com.mx","contactFirstName":"Josue","companyName":"Derevo. S.A de C.V","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"SD_03","contactFullName":"","contactUrl":"","contactLastName":"Castañon","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-14 12:13:35,911 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:35,911 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:36,083 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:36,991 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"joerg.schmitz@t-systems.com","contactFirstName":"Jörg","companyName":"T-Systems International GmbH","companyGuid":"","contactJobTitle":"senior it-architekt","companyWebAddress":"t-systems.com","recordId":"SD_01","contactFullName":"","contactUrl":"","contactLastName":"Schmitz","contactCountry":"Germany","contactMiddleName":""}
+2020-08-14 12:13:37,893 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:38,283 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:39,005 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"anna.duerr@bswhealth.org","contactFirstName":"Anna","companyName":"Baylor Scott & White Health","companyGuid":"","contactJobTitle":"Director- Public Relations","companyWebAddress":"","recordId":"SD_02","contactFullName":"","contactUrl":"","contactLastName":"DÜrr","contactCountry":"United States","contactMiddleName":""}
+2020-08-14 12:13:39,068 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:13:39,083 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Jürgen","companyName":"Takeda Pharma A\/S","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"SD_13","contactFullName":"","contactUrl":"","contactLastName":"Wolf","contactCountry":"Germany","contactMiddleName":""}
+2020-08-14 12:13:40,568 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:14:13,614 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:14:13,615 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\DFM diacritic_input.csv
+2020-08-14 12:14:13,656 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\DFM diacritic_input.csv
+2020-08-14 12:17:41,171 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-08-14 12:17:41,193 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-08-14 12:17:41,708 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:41,771 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:42,005 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:42,976 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:44,021 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:44,490 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:44,763 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:45,365 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:45,590 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:46,037 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:47,303 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:47,396 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:47,749 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,105 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,122 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,244 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,545 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,709 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,865 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:48,896 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:49,365 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:49,927 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:49,930 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:52,239 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:53,224 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:54,820 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:55,083 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:56,045 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:17:59,822 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:18:06,651 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:18:07,412 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:18:07,412 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-08-14 12:18:07,443 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-08-14 12:19:06,343 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-08-14 12:19:06,365 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-08-14 12:19:06,756 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,209 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,302 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,318 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,334 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,396 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,396 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:07,865 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:08,255 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:08,381 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:08,798 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:08,883 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,160 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,453 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,674 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,771 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,855 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:09,957 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,168 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,292 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,392 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,662 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,958 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:10,990 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,115 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,130 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,130 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,255 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,255 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,286 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,396 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,458 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:11,912 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:12,185 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:12,482 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:13,210 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:13,242 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:13,370 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:13,693 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:14,474 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:14,662 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:15,005 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:15,568 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:15,646 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:15,833 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:16,809 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:16,855 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:20,375 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:31,922 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-14 12:19:31,922 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\EmailTranalyzer.csv
+2020-08-14 12:19:31,972 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\EmailTranalyzer.csv

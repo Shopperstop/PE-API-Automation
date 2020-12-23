@@ -1,0 +1,13 @@
+2020-08-06 14:27:49,834 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\FullCompIndex.csv
+2020-08-06 14:27:49,894 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\FullCompIndex.csv
+2020-08-06 14:27:50,346 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:53,483 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:53,521 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:54,520 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:55,055 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:55,097 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:55,552 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:27:58,975 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:28:06,469 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-06 14:28:06,470 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\FullCompIndex.csv
+2020-08-06 14:28:06,497 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\FullCompIndex.csv

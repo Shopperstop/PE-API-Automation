@@ -1,0 +1,29 @@
+2020-08-11 17:49:14,918 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\CompMbWithEmail.csv
+2020-08-11 17:49:14,960 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\CompMbWithEmail.csv
+2020-08-11 17:49:15,182 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:15,569 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,306 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,338 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,366 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,379 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,520 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,618 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,677 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,819 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:16,946 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,225 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,454 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,744 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,759 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,783 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:17,834 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,381 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,385 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,444 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,444 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,454 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,459 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,463 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,470 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-11 17:49:19,471 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\CompMbWithEmail.csv
+2020-08-11 17:49:19,522 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\CompMbWithEmail.csv

@@ -1,0 +1,35 @@
+2020-11-24 15:45:01,714 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-11-24 15:45:01,732 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-11-24 15:45:02,156 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:02,174 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:02,294 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:02,371 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:02,446 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:03,830 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:04,226 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:04,262 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:04,883 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:05,368 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,189 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,222 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,329 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,522 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,602 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,740 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:06,927 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:07,052 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:07,212 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:07,306 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:07,879 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:08,020 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:08,302 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:09,124 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:09,292 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:09,440 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:10,545 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:10,693 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:11,867 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:13,236 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:26,207 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-11-24 15:45:26,207 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-11-24 15:45:26,234 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv

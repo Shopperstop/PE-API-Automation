@@ -3,6 +3,7 @@ package com.smarteinc.peapi;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
@@ -36,10 +37,17 @@ public class PEAPI_Library extends PEAPI_ResponseFactory {
 		return res;
 	}
 	
-	public Response getResponseForPEApi(String strJson, String URL, String mode ) {
+//	public Response getResponseForPEApi(String strJson, String URL, String mode ) {
+//		
+//		//System.out.println(json);
+//		Response res = peResponse(URL, strJson, mode);
+//		return res;
+//	}
+	
+	public Response getResponseForPEApi(String strJson, String URL, Map<String, String> modeParam ) {
 		
 		//System.out.println(json);
-		Response res = peResponse(URL, strJson, mode);
+		Response res = peModeResponse(URL, strJson, modeParam);
 		return res;
 	}
 
@@ -60,19 +68,39 @@ public class PEAPI_Library extends PEAPI_ResponseFactory {
 	
 	
 	
-	public void updateExcelCell(List<String> cellValue, XSSFSheet sheet, int row, Response res)
+	public void updateExcelCell(String flagMode, XSSFSheet sheet, int row)
+	{		
+		ExcelUtility.updateCellData(sheet, row, "status",flagMode );
+		
+	}
+	
+	public void updateExcelCell(List<String> cellValue, XSSFSheet sheet, int row)
 	{
+		int col = 6 ;
 		for(String str : cellValue)
 		{
 			//System.out.println(str + " "+ APIUtility.getMemberValueAsString(res, str));
-			if (APIUtility.getMemberValueAsString(res, str) != null) {
-			ExcelUtility.updateCellData(sheet, row, str ,APIUtility.getMemberValueAsString(res, str));
-		}
-		ExcelUtility.updateCellData(sheet, row, "ResponseTime" , String.valueOf(respTime));
+		
+			ExcelUtility.updateCellData(sheet, row, col ,str);
+		
+		//	col++ ;
 		}
 	}
-
 		
+
+	
+//	public void updateExcelCell(List<String> cellValue, XSSFSheet sheet, int row, String res)
+//	{
+//		for(String str : cellValue)
+//		{
+//			//System.out.println(str + " "+ APIUtility.getMemberValueAsString(res, str));
+//		
+//			ExcelUtility.updateCellData(sheet, row, str , res);
+//		
+//	
+//		}
+//	}
+//		
 		
 	public void updateCsv(List<String> cellValue, CSVWriter writer,  Properties prop, Response res) throws IOException
 	{

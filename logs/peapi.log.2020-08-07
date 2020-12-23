@@ -1,0 +1,522 @@
+2020-08-07 11:03:57,672 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:03:57,713 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:03:57,838 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:03:58,926 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:03:58,937 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:03:59,373 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:03:59,626 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:03:59,782 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,040 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,100 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,277 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,764 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,781 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:00,886 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:01,046 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:01,185 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:01,972 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:04,966 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:06,802 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,013 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,031 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,654 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,682 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,756 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:07,841 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:08,333 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:08,382 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:08,529 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:08,551 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:09,191 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:09,407 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:09,410 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:10,611 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:10,873 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:12,399 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:12,573 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:12,587 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:12,902 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:13,264 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:13,289 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:13,570 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:13,650 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:13,916 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:14,220 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:14,230 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:14,835 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,078 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,283 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,350 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,396 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,625 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,666 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,794 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:15,871 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,042 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,293 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,318 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,320 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,681 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,749 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,885 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:16,946 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,141 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,173 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,792 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,821 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,870 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,971 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,983 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:17,983 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,127 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,188 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,207 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,217 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,290 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,654 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,676 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,677 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,692 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,795 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,804 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:18,932 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,228 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,518 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,637 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,731 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,763 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,788 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,789 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,828 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:19,995 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:20,263 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:20,636 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:20,974 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:21,013 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:22,213 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:22,667 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:24,243 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:27,436 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:27,922 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:28,901 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:39,644 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:04:39,644 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:04:39,705 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:05:47,006 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:05:47,037 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:05:47,153 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:05:47,220 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,222 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,256 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,299 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,319 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,449 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,526 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,547 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,576 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,672 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,677 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,747 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,747 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,757 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,762 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,866 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,883 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,894 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,894 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,903 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,911 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,947 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,956 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,983 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:47,988 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,006 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,008 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,031 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,125 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,200 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,204 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,380 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,433 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,439 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,447 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,449 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,518 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,526 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,558 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,616 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,655 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,677 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,677 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,684 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,695 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,696 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,698 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,710 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,737 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,897 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,901 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,914 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:48,914 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,002 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,005 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,080 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,089 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,089 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,095 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,124 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,149 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,158 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,182 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,243 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,279 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,300 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,331 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,340 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,342 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,342 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,416 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,425 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,480 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,526 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,617 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,652 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,662 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,680 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,758 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,816 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,849 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,850 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,863 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,900 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,922 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:49,923 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,025 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,034 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,047 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,058 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,063 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,069 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,108 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,120 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,198 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,324 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,340 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,357 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,493 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:05:50,493 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:05:50,511 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:06:53,793 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:06:53,829 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:06:53,991 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,006 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,035 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,087 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,095 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,115 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,119 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,183 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,281 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,309 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,318 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,340 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,341 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,375 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,419 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,442 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,455 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,494 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,534 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,549 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,596 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,610 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,656 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,662 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,662 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,666 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,707 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,749 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,750 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,803 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,897 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,908 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:54,909 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,015 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,041 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,070 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,070 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,151 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,153 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,154 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,222 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,227 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,265 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,265 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:06:55,281 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,286 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,292 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,306 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,320 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,337 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,516 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,531 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,545 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,632 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,653 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,721 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,734 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,734 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,741 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,741 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,835 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,841 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:55,942 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,093 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,116 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,144 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,210 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,329 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,339 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,339 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,391 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,466 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,678 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,689 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,716 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,750 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,783 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,783 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,786 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,792 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,809 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,819 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,826 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,841 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,873 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,900 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,903 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,922 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:56,925 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,053 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,066 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,203 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,296 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,319 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,372 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,387 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,387 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:06:57,393 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:07:10,528 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:07:17,333 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:07:17,334 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:07:17,382 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:11:19,024 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:11:19,058 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:11:19,148 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mcyr@ambitenergy.com","contactFirstName":"Mark","companyName":"AmbitEnergy","companyGuid":"","contactJobTitle":"MarketingConsultant","companyWebAddress":"http:\/\/ww2.ambitenergy.com","recordId":"Rd23","contactState":"","contactFullName":"MarkSt.Cyr","phone":"","contactLastName":"Cyr","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:19,148 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"JAVIERSIMORRA","companyGuid":"","contactJobTitle":"Responsabledeturno","companyWebAddress":"http:\/\/www.javiersimorra.com","recordId":"Rd03","contactState":"","contactFullName":"CarolinaVidaldony","phone":"","contactLastName":"Vidaldony","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-08-07 11:11:19,149 [pool-1-thread-20] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"UniversidadCat?licadelaSant?simaConcepci?n","companyGuid":"","contactJobTitle":"EstudiantedeMedicina","companyWebAddress":"http:\/\/www.ucsc.cl\/","recordId":"Rd20","contactState":"","contactFullName":"CarolinaPinoContreras","phone":"","contactLastName":"PinoContreras","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:19,150 [pool-1-thread-33] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"crivera@spensiones.cl","contactFirstName":"Carolina","companyName":"SuperintendenciadePensiones","companyGuid":"","contactJobTitle":"AnalistaDpto.T?cnicodeInvalidezyErgonom?aDivisi?nComisionesM?dicasyErgon?mica","companyWebAddress":"http:\/\/","recordId":"Rd33","contactState":"","contactFullName":"CarolinaVigorenaRivera","phone":"","contactLastName":"Rivera","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:19,150 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie_hanson@cargill.com","contactFirstName":"Natalie","companyName":"Cargill","companyGuid":"","contactJobTitle":"FSQRSupervisor","companyWebAddress":"http:\/\/www.cargill.com","recordId":"Rd39","contactState":"","contactFullName":"NatalieHanson","phone":"","contactLastName":"Hanson","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:19,151 [pool-1-thread-45] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Nino","companyName":"RTVIInternational","companyGuid":"","contactJobTitle":"Correspondent","companyWebAddress":"http:\/\/www.rtvi.ru","recordId":"Rd45","contactState":"","contactFullName":"NinoShamugiya","phone":"","contactLastName":"Shamugiya","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:19,153 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.cn@homecredit.co.in","contactFirstName":"Manohar","companyName":"HomeCreditIndia","companyGuid":"","contactJobTitle":"Unemployee","companyWebAddress":"http:\/\/www.homecredit.co.in","recordId":"Rd18","contactState":"","contactFullName":"ManoharCN","phone":"","contactLastName":"CN","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:19,155 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.hanley@baesystems.com","contactFirstName":"Natalie","companyName":"BAESystems","companyGuid":"","contactJobTitle":"MechanicalDesigner","companyWebAddress":"http:\/\/www.baesystems.com","recordId":"Rd51","contactState":"","contactFullName":"NatalieHanley","phone":"","contactLastName":"Hanley","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:19,148 [pool-1-thread-38] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj@checkmateservices.com","contactFirstName":"Manoj","companyName":"CHECKMATESERVICESPVTLTD","companyGuid":"","contactJobTitle":"fildboy","companyWebAddress":"http:\/\/www.checkmateservices.com","recordId":"Rd38","contactState":"","contactFullName":"ManojGaagat","phone":"","contactLastName":"Gaagat","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:19,149 [pool-1-thread-41] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.marquardt@anixter.com","contactFirstName":"Natalie","companyName":"","companyGuid":"'SupplyChainProgramDevelopment'''","contactJobTitle":"'''Director'","companyWebAddress":"","recordId":"Rd41","contactState":"Anixter","contactFullName":"NatalieMarquardt","phone":"UnitedStates","contactLastName":"Marquardt","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-08-07 11:11:19,509 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nlinnell@uw.edu","contactFirstName":"Natalie","companyName":"UniversityofWashington","companyGuid":"","contactJobTitle":"GraduateStudent","companyWebAddress":"http:\/\/www.washington.edu","recordId":"Rd52","contactState":"","contactFullName":"NatalieLinnell","phone":"","contactLastName":"Linnell","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:20,512 [pool-1-thread-46] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nioka.black@arthrex.com","contactFirstName":"Nioka","companyName":"Arthrex","companyGuid":"","contactJobTitle":"FinshingTech","companyWebAddress":"http:\/\/www.Arthrex.com","recordId":"Rd46","contactState":"","contactFullName":"NiokaBlack","phone":"","contactLastName":"Black","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:20,512 [pool-1-thread-20] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.jaramillo@scius.com","contactFirstName":"Natalie","companyName":"ServiceCorporationInternational","companyGuid":"","contactJobTitle":"Receptionist","companyWebAddress":"http:\/\/www.scicorp.com","recordId":"Rd53","contactState":"","contactFullName":"NatalieJaramillo","phone":"","contactLastName":"Jaramillo","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,150 [pool-1-thread-45] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.jensik@aa.com","contactFirstName":"Natalie","companyName":"USAirways(nowAmericanAirlines)","companyGuid":"","contactJobTitle":"Flightattendant","companyWebAddress":"http:\/\/jobs.aa.com","recordId":"Rd56","contactState":"","contactFullName":"NatalieJensik","phone":"","contactLastName":"Jensik","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,153 [pool-1-thread-31] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"ArenaMedia","companyGuid":"","contactJobTitle":"DigitalAccountDirector","companyWebAddress":"www.arenamedia.com","recordId":"Rd31","contactState":"","contactFullName":"CarolinaVadilloL?pez","phone":"","contactLastName":"VadilloL?pez","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-08-07 11:11:21,155 [pool-1-thread-33] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"ninoshka.perez@jetblue.com","contactFirstName":"Ninoshka","companyName":"JetBlueAirways","companyGuid":"","contactJobTitle":"Inflight","companyWebAddress":"http:\/\/www.jetblue.com","recordId":"Rd54","contactState":"","contactFullName":"NinoshkaPerez","phone":"","contactLastName":"Perez","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,153 [pool-1-thread-41] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"ninoska","companyName":"UnisonoBusinessSolutions","companyGuid":"","contactJobTitle":"atencionalcliente","companyWebAddress":"www.unisonobpo.com","recordId":"Rd60","contactState":"","contactFullName":"ninoskamolinalagos","phone":"","contactLastName":"molinalagos","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:21,152 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nvaramashvili@tbcbank.com.ge","contactFirstName":"nino","companyName":"TbcBank","companyGuid":"","contactJobTitle":"HeadofNBGreportingunit","companyWebAddress":"","recordId":"Rd58","contactState":"","contactFullName":"ninovaramashvili","phone":"","contactLastName":"varamashvili","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,152 [pool-1-thread-38] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"n.laurin@criteo.com","contactFirstName":"Natalie","companyName":"Criteo","companyGuid":"","contactJobTitle":"AccountStrategist","companyWebAddress":"www.criteo.com","recordId":"Rd59","contactState":"","contactFullName":"NatalieLaurin","phone":"","contactLastName":"Laurin","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,151 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.kang@ef.com","contactFirstName":"Natalie","companyName":"EFEducationFirst","companyGuid":"","contactJobTitle":"AdmissionsCoordinator","companyWebAddress":"https:\/\/www.ef.com","recordId":"Rd57","contactState":"","contactFullName":"NatalieKang","phone":"","contactLastName":"Kang","contactZipcode":"","contactCountry":"SouthKorea","contactMiddleName":""}
+2020-08-07 11:11:21,150 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.hawksworth@austintexas.gov","contactFirstName":"Natalie","companyName":"AstonUniversity","companyGuid":"","contactJobTitle":"PAtoDirectorofHR&OrganisationalDevelopment","companyWebAddress":"http:\/\/www1.aston.ac.uk\/","recordId":"Rd55","contactState":"","contactFullName":"NatalieHawksworth","phone":"","contactLastName":"Hawksworth","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:21,154 [pool-1-thread-19] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mdeora@concastgroup.com","contactFirstName":"manoj","companyName":"CONCASTGroup","companyGuid":"","contactJobTitle":"GMworksatSodepur","companyWebAddress":"http:\/\/www.concastispat.com","recordId":"Rd19","contactState":"","contactFullName":"manojdeora","phone":"","contactLastName":"deora","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:21,153 [pool-1-thread-30] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"carolina_traynor@tjx.com","contactFirstName":"Carolina","companyName":"'''TheTJXCompanies'","companyGuid":"","contactJobTitle":"SeniorAllocationAnalyst","companyWebAddress":"","recordId":"Rd30","contactState":"'Inc.'''","contactFullName":"CarolinaTraynor","phone":"UnitedStates","contactLastName":"Traynor","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-08-07 11:11:21,511 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj_ks@infosys.com","contactFirstName":"Manoj","companyName":"Infosys","companyGuid":"","contactJobTitle":"ProgrammerAnalyst","companyWebAddress":"www.infosys.com","recordId":"Rd04","contactState":"","contactFullName":"ManojKS","phone":"","contactLastName":"KS","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,514 [pool-1-thread-29] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"Sura","companyGuid":"","contactJobTitle":"AsesorWealthManagement","companyWebAddress":"www.sura.cl","recordId":"Rd29","contactState":"","contactFullName":"CarolinaTorresMadrid","phone":"","contactLastName":"TorresMadrid","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:21,515 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"carolina.blas@thermofisher.com","contactFirstName":"Carolina","companyName":"ThermoFisherScientific","companyGuid":"","contactJobTitle":"SupplyandDemandAnalyst","companyWebAddress":"https:\/\/www.thermofisher.com","recordId":"Rd06","contactState":"","contactFullName":"CarolinaPerezBlas","phone":"","contactLastName":"Blas","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:21,515 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"cpercegoni@multiplan.com.br","contactFirstName":"Carolina","companyName":"MultiplanEmpreendimentosS.A.","companyGuid":"","contactJobTitle":"ExecutivaComercial","companyWebAddress":"http:\/\/www.multiplan.com.br","recordId":"Rd13","contactState":"","contactFullName":"CarolinaPercegoni","phone":"","contactLastName":"Percegoni","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:21,517 [pool-1-thread-7] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"porfiri.carolina@inta.gob.ar","contactFirstName":"Carolina","companyName":"INTA","companyGuid":"","contactJobTitle":"Investigadora","companyWebAddress":"http:\/\/www.inta.gov.ar","recordId":"Rd07","contactState":"","contactFullName":"CarolinaPorfiri","phone":"","contactLastName":"Porfiri","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:11:22,514 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"'''WonderMeats'","companyGuid":"","contactJobTitle":"AssistantController","companyWebAddress":"","recordId":"Rd08","contactState":"'Inc'''","contactFullName":"CarolinaVique","phone":"UnitedStates","contactLastName":"Vique","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-08-07 11:11:22,514 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"AnaCarolina","companyName":"SearaAlimentosLTDA","companyGuid":"","contactJobTitle":"M?dicaVeterin?riaSanitaristaFrangodecorte","companyWebAddress":"http:\/\/www.seara.com.br","recordId":"Rd05","contactState":"","contactFullName":"AnaCarolinaSpricigo","phone":"","contactLastName":"Spricigo","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:22,519 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:11:22,520 [pool-1-thread-42] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie@theofficegroup.co.uk","contactFirstName":"Natalie","companyName":"TheOfficeGroup","companyGuid":"","contactJobTitle":"MemberExperienceManager","companyWebAddress":"http:\/\/www.theofficegroup.co.uk","recordId":"Rd42","contactState":"","contactFullName":"NatalieHughes","phone":"","contactLastName":"Hughes","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:22,521 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj.bahl@fticonsulting.com","contactFirstName":"Manoj","companyName":"FtiConsulting","companyGuid":"","contactJobTitle":"ManagingDirector","companyWebAddress":"www.fticonsulting.com","recordId":"Rd09","contactState":"","contactFullName":"ManojBahl","phone":"","contactLastName":"Bahl","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:22,522 [pool-1-thread-22] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj@promptlink.com","contactFirstName":"Manoj","companyName":"'''PromptlinkCommunications'","companyGuid":"","contactJobTitle":"Servie","companyWebAddress":"","recordId":"Rd22","contactState":"'Inc'''","contactFullName":"ManojKsp","phone":"India","contactLastName":"Ksp","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-08-07 11:11:22,523 [pool-1-thread-48] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nhughes@ophouston.com","contactFirstName":"Natalie","companyName":"OP","companyGuid":"","contactJobTitle":"SalesAdministrator","companyWebAddress":"http:\/\/www.ophouston.com","recordId":"Rd48","contactState":"","contactFullName":"NatalieHughes(op)","phone":"","contactLastName":"Hughes","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:22,521 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"UniversidaddeCaldas","companyGuid":"","contactJobTitle":"Estudiante","companyWebAddress":"http:\/\/www.ucaldas.edu.co\/","recordId":"Rd10","contactState":"","contactFullName":"CarolinaRiosPati?o","phone":"","contactLastName":"RiosPati?o","contactZipcode":"","contactCountry":"Colombia","contactMiddleName":""}
+2020-08-07 11:11:22,542 [pool-1-thread-27] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"TheWorldBank","companyGuid":"","contactJobTitle":"Consultant","companyWebAddress":"www.worldbank.org","recordId":"Rd27","contactState":"","contactFullName":"CarolinaSalazarPardo","phone":"","contactLastName":"SalazarPardo","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-07 11:11:22,524 [pool-1-thread-44] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Natalie","companyName":"EmergentHoldings","companyGuid":"","contactJobTitle":"BusinessAnalyst","companyWebAddress":"https:\/\/emergentholdingsinc.com","recordId":"Rd44","contactState":"","contactFullName":"NatalieMarquez","phone":"","contactLastName":"Marquez","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,151 [pool-1-thread-24] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.shetty@legrand.ae","contactFirstName":"Manohar","companyName":"Legrand(India)","companyGuid":"","contactJobTitle":"FinanceandIndustrialController","companyWebAddress":"http:\/\/www.legrand.co.in","recordId":"Rd24","contactState":"","contactFullName":"Manoharshetty","phone":"","contactLastName":"shetty","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:23,152 [pool-1-thread-47] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"ninoshka.rios@us.mcd.com","contactFirstName":"Ninoshka","companyName":"'''McDonald''''s'''","companyGuid":"","contactJobTitle":"Cahier","companyWebAddress":"https:\/\/corporate.mcdonalds.com\/","recordId":"Rd47","contactState":"","contactFullName":"NinoshkaRios","phone":"","contactLastName":"Rios","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,152 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"ProdamEmpresadeTecnologiadaInforma??oeComunica??odoMunic?piodeS?oPaulo","companyGuid":"","contactJobTitle":"Professora","companyWebAddress":"http:\/\/prodam.sp.gov.br","recordId":"Rd32","contactState":"","contactFullName":"CarolinaSilveiraLeite","phone":"","contactLastName":"SilveiraLeite","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:23,155 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mb@us.ibm.com","contactFirstName":"mano","companyName":"Ibm","companyGuid":"","contactJobTitle":"leader","companyWebAddress":"www.ibm.com","recordId":"Rd25","contactState":"","contactFullName":"manob..........","phone":"","contactLastName":"b","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:23,152 [pool-1-thread-26] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"carolina.zabihi@lul.se","contactFirstName":"Carolina","companyName":"Uppsalakommun","companyGuid":"","contactJobTitle":"L?nekonsult","companyWebAddress":"http:\/\/www.uppsala.se","recordId":"Rd26","contactState":"","contactFullName":"CarolinaZabihi","phone":"","contactLastName":"Zabihi","contactZipcode":"","contactCountry":"Sweden","contactMiddleName":""}
+2020-08-07 11:11:23,152 [pool-1-thread-34] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MetLife","companyGuid":"","contactJobTitle":"AsesordeSeguros","companyWebAddress":"http:\/\/www.metlife.com","recordId":"Rd34","contactState":"","contactFullName":"CarolinaPurataGarcia","phone":"","contactLastName":"Garcia","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-07 11:11:23,157 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"Roche","companyGuid":"","contactJobTitle":"ApplicationSpecialist","companyWebAddress":"www.roche.cl","recordId":"Rd12","contactState":"","contactFullName":"CarolinaParedesToro","phone":"","contactLastName":"ParedesToro","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:23,155 [pool-1-thread-43] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nmarquette@georgefox.edu","contactFirstName":"Natalie","companyName":"GeorgeFoxUniversity","companyGuid":"","contactJobTitle":"Student","companyWebAddress":"http:\/\/georgefox.edu","recordId":"Rd43","contactState":"","contactFullName":"NatalieMarquette","phone":"","contactLastName":"Marquette","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,155 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"GrupoGtd","companyGuid":"","contactJobTitle":"ejecutivaintegral","companyWebAddress":"http:\/\/www.grupogtd.com","recordId":"Rd01","contactState":"","contactFullName":"CarolinaValdesMella","phone":"","contactLastName":"ValdesMella","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:23,154 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Manoel","companyName":"Pol?ciaMilitardoDistritoFederal","companyGuid":"","contactJobTitle":"servidorp?blico","companyWebAddress":"http:\/\/www.pmdf.df.gov.br","recordId":"Rd11","contactState":"","contactFullName":"ManoelCardosoVieira","phone":"","contactLastName":"CardosoVieira","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:23,514 [pool-1-thread-37] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"carolina.pittari@maran.it","contactFirstName":"Carolina","companyName":"MaranS.p.A.","companyGuid":"","contactJobTitle":"esattore","companyWebAddress":"http:\/\/www.maran.IT","recordId":"Rd37","contactState":"","contactFullName":"CarolinaPittari","phone":"","contactLastName":"Pittari","contactZipcode":"","contactCountry":"Italy","contactMiddleName":""}
+2020-08-07 11:11:23,517 [pool-1-thread-40] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.marquet@loreal.com","contactFirstName":"Natalie","companyName":"'''L''''or?al'''","companyGuid":"","contactJobTitle":"SeniorTechnician","companyWebAddress":"www.lorealusa.com","recordId":"Rd40","contactState":"","contactFullName":"NatalieMarquet","phone":"","contactLastName":"Marquet","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,518 [pool-1-thread-21] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj@corpbank.co.in","contactFirstName":"Manoj","companyName":"CORPORATIONBANK","companyGuid":"","contactJobTitle":"SeniorManagerwithpremiumGovernmentBank.","companyWebAddress":"http:\/\/www.corpbank.com\/","recordId":"Rd21","contactState":"","contactFullName":"ManojKriplani","phone":"","contactLastName":"Kriplani","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:23,518 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"ccampos@ufro.cl","contactFirstName":"Carolina","companyName":"UniversidaddeLaFontera","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"http:\/\/www.ufro.cl","recordId":"Rd16","contactState":"","contactFullName":"CarolinaRam?rezCampos","phone":"","contactLastName":"Campos","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:23,520 [pool-1-thread-49] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nataliej@caremedical.com","contactFirstName":"Natalie","companyName":"CareMedicalEquipment","companyGuid":"","contactJobTitle":"customerservice","companyWebAddress":"http:\/\/www.caremedical.com","recordId":"Rd49","contactState":"","contactFullName":"NatalieJaramillo","phone":"","contactLastName":"Jaramillo","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,529 [pool-1-thread-35] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"desempregado","companyGuid":"","contactJobTitle":"Webdesigner","companyWebAddress":"http:\/\/","recordId":"Rd35","contactState":"","contactFullName":"CarolinadeAssisRodrigues","phone":"","contactLastName":"deRodrigues","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:23,530 [pool-1-thread-15] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"FaculdadeC?sperL?bero","companyGuid":"","contactJobTitle":"Aluno","companyWebAddress":"http:\/\/www.casperlibero.edu.br","recordId":"Rd15","contactState":"","contactFullName":"CarolinaSprangimMeiradosSantos","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:23,531 [pool-1-thread-50] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nmartigon@asiautism.com","contactFirstName":"Natalie","companyName":"AutismSpectrumInterventions","companyGuid":"","contactJobTitle":"ParentConsultant","companyWebAddress":"http:\/\/www.ASIautism.com","recordId":"Rd50","contactState":"","contactFullName":"NatalieMartigon","phone":"","contactLastName":"Martigon","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,533 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.singh@bcone.com","contactFirstName":"Manohar","companyName":"Bristlecone","companyGuid":"","contactJobTitle":"AssociatePrincipal(SAPHANA+SAPBOBJ+Spotfire)","companyWebAddress":"www.bcone.com","recordId":"Rd02","contactState":"","contactFullName":"ManoharSingh","phone":"","contactLastName":"Singh","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:23,533 [pool-1-thread-36] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"CORFO|ChileanEconomicDevelopmentAgency","companyGuid":"","contactJobTitle":"Administrativa","companyWebAddress":"http:\/\/www.corfo.cl","recordId":"Rd36","contactState":"","contactFullName":"CarolinaParedesOyarzo","phone":"","contactLastName":"ParedesOyarzo","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:11:23,536 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Manoel","companyName":"GSGerenciamentodeRiscos","companyGuid":"","contactJobTitle":"Propriet?rio","companyWebAddress":"http:\/\/www.gservice.com.br","recordId":"Rd14","contactState":"","contactFullName":"ManoelSouzaFarias","phone":"","contactLastName":"SouzaFarias","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:23,537 [pool-1-thread-17] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj_gesulan@carraro.com","contactFirstName":"Manoj","companyName":"CARRAROINDIAPRIVATELIMITED","companyGuid":"","contactJobTitle":"SeniorManagerAfterSalesandservice","companyWebAddress":"","recordId":"Rd17","contactState":"","contactFullName":"ManojGesulan","phone":"","contactLastName":"Gesulan","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:23,539 [pool-1-thread-20] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nhargrove@ford.com","contactFirstName":"Natalie","companyName":"FordMotorCompany","companyGuid":"","contactJobTitle":"ExecutiveAssistant","companyWebAddress":"http:\/\/careers.ford.com","recordId":"Rd63","contactState":"","contactFullName":"NatalieHargrove","phone":"","contactLastName":"Hargrove","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,539 [pool-1-thread-46] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.lam@columbia.edu","contactFirstName":"Natalie","companyName":"ColumbiaBusinessSchool","companyGuid":"","contactJobTitle":"MBACandidate","companyWebAddress":"http:\/\/www4.gsb.columbia.edu\/","recordId":"Rd62","contactState":"","contactFullName":"NatalieLam","phone":"","contactLastName":"Lam","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,540 [pool-1-thread-45] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.knight@nationwideplatforms.co.uk","contactFirstName":"Natalie","companyName":"NationwidePlatforms","companyGuid":"","contactJobTitle":"AreaSalesManager","companyWebAddress":"http:\/\/www.nationwideplatforms.co.uk","recordId":"Rd64","contactState":"","contactFullName":"NatalieKnight","phone":"","contactLastName":"Knight","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:23,538 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nataliekernan@vistaprairie.org","contactFirstName":"Natalie","companyName":"VistaPrairieCommunities","companyGuid":"","contactJobTitle":"DietaryAide","companyWebAddress":"http:\/\/www.vistaprairie.org","recordId":"Rd61","contactState":"","contactFullName":"NatalieKernan","phone":"","contactLastName":"Kernan","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,542 [pool-1-thread-33] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.hankins@rousseaumetal.com","contactFirstName":"Natalie","companyName":"RousseauMetal","companyGuid":"","contactJobTitle":"generalmanager","companyWebAddress":"https:\/\/www.rousseaumetal.com\/","recordId":"Rd66","contactState":"","contactFullName":"NatalieHankins","phone":"","contactLastName":"Hankins","contactZipcode":"","contactCountry":"SouthAfrica","contactMiddleName":""}
+2020-08-07 11:11:23,543 [pool-1-thread-41] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Nioka","companyName":"JustUSInc","companyGuid":"","contactJobTitle":"OfficeCoordinator","companyWebAddress":"","recordId":"Rd67","contactState":"","contactFullName":"NiokaWilliams","phone":"","contactLastName":"Williams","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:23,541 [pool-1-thread-31] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.knight@wernick.co.uk","contactFirstName":"Natalie","companyName":"WernickGroupLimited","companyGuid":"","contactJobTitle":"AssistantDepotManager","companyWebAddress":"http:\/\/www.wernick.co.uk","recordId":"Rd65","contactState":"","contactFullName":"NatalieKnight","phone":"","contactLastName":"Knight","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:23,544 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nataliel@wcc.mb.ca","contactFirstName":"Natalie","companyName":"RBCConventionCentreWinnipeg","companyGuid":"","contactJobTitle":"BanquetManager","companyWebAddress":"https:\/\/www.wcc.mb.ca\/","recordId":"Rd68","contactState":"","contactFullName":"NatalieLam","phone":"","contactLastName":"Lam","contactZipcode":"","contactCountry":"Canada","contactMiddleName":""}
+2020-08-07 11:11:23,545 [pool-1-thread-38] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"PUVALENTHIREN","companyName":"PoliticalOrganisation","companyGuid":"","contactJobTitle":"PegawaiKhas","companyWebAddress":"http:\/\/","recordId":"Rd69","contactState":"","contactFullName":"PUVALENTHIRENARUMUGAM","phone":"","contactLastName":"ARUMUGAM","contactZipcode":"","contactCountry":"Malaysia","contactMiddleName":""}
+2020-08-07 11:11:24,517 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pwcthurmanf@casinocaribbean.net","contactFirstName":"PWCThurman","companyName":"CasinoCaribbean","companyGuid":"","contactJobTitle":"porter","companyWebAddress":"http:\/\/www.casinocaribbean.net","recordId":"Rd70","contactState":"","contactFullName":"PWCThurmanfrenier","phone":"","contactLastName":"frenier","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,517 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pyers.symon@ibm.com","contactFirstName":"Pyers","companyName":"Ibm","companyGuid":"","contactJobTitle":"LinuxProjectsEngineer","companyWebAddress":"www.ibm.com","recordId":"Rd71","contactState":"","contactFullName":"PyersSymon","phone":"","contactLastName":"Symon","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:11:24,522 [pool-1-thread-19] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"peggy.schneble@costamesaca.gov","contactFirstName":"Peggy","companyName":"CityofCostaMesa","companyGuid":"","contactJobTitle":"SpecialProjectsConsultant","companyWebAddress":"http:\/\/www.costamesaca.gov","recordId":"Rd72","contactState":"","contactFullName":"PeggySchneble","phone":"","contactLastName":"Schneble","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,522 [pool-1-thread-30] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Peggy","companyName":"O2Filmes","companyGuid":"","contactJobTitle":"MembershipConsultant","companyWebAddress":"http:\/\/www.o2filmes.com","recordId":"Rd73","contactState":"","contactFullName":"PeggyTurbides","phone":"","contactLastName":"Turbides","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,524 [pool-1-thread-29] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pyper.nicholes@ldschurch.org","contactFirstName":"Pyper","companyName":"LDSchurch","companyGuid":"","contactJobTitle":"SeminaryTeacherSubstitute","companyWebAddress":"http:\/\/www.lds.org","recordId":"Rd75","contactState":"","contactFullName":"PyperNicholes","phone":"","contactLastName":"Nicholes","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,524 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pthompson@usc.edu","contactFirstName":"Pymeka","companyName":"UniversityofSouthernCalifornia","companyGuid":"","contactJobTitle":"busdriver","companyWebAddress":"http:\/\/usc.edu","recordId":"Rd74","contactState":"","contactFullName":"PymekaThompson","phone":"","contactLastName":"Thompson","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,525 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pye.baena@stiles.com","contactFirstName":"Pye","companyName":"'''St.Luke''''sHealthSystem'''","companyGuid":"","contactJobTitle":"RN","companyWebAddress":"http:\/\/www.stlukesonline.org","recordId":"Rd76","contactState":"","contactFullName":"PyeBaena","phone":"","contactLastName":"Baena","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,525 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"puyuhstar.puyuh@factorylabs.com","contactFirstName":"puyuhstar","companyName":"FactoryDesignLabs","companyGuid":"","contactJobTitle":"ccccc","companyWebAddress":"http:\/\/www.factorylabs.com","recordId":"Rd77","contactState":"","contactFullName":"puyuhstarpuyuh","phone":"","contactLastName":"puyuh","contactZipcode":"","contactCountry":"Malaysia","contactMiddleName":""}
+2020-08-07 11:11:24,525 [pool-1-thread-7] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pv.iza@plasvale.com.br","contactFirstName":"Pv","companyName":"Plasvale","companyGuid":"","contactJobTitle":"Promotorademerchandising","companyWebAddress":"http:\/\/www.plasvale.com.br","recordId":"Rd78","contactState":"","contactFullName":"PvIza","phone":"","contactLastName":"Iza","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:24,528 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"p.magdalena@eiffage.pl","contactFirstName":"Pydyszewska","companyName":"EiffagePolskaBudownictwo","companyGuid":"","contactJobTitle":"KierownikDzia?uTechnicznegoBudowy","companyWebAddress":"http:\/\/eiffage.pl","recordId":"Rd79","contactState":"","contactFullName":"PydyszewskaMagdalena","phone":"","contactLastName":"Magdalena","contactZipcode":"","contactCountry":"Poland","contactMiddleName":""}
+2020-08-07 11:11:24,547 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pieter.vanzoest@asics.com","contactFirstName":"Pieter","companyName":"ASICSEMEA","companyGuid":"","contactJobTitle":"KeyAccountManager","companyWebAddress":"http:\/\/www.asics.com","recordId":"Rd80","contactState":"","contactFullName":"PietervanZoest","phone":"","contactLastName":"vanZoest","contactZipcode":"","contactCountry":"Netherlands","contactMiddleName":""}
+2020-08-07 11:11:24,547 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pvr.kakinada@pfizer.com","contactFirstName":"pvr","companyName":"Pfizer","companyGuid":"","contactJobTitle":"fieldmanager","companyWebAddress":"www.pfizerindia.com","recordId":"Rd81","contactState":"","contactFullName":"pvrkishorekakinada","phone":"","contactLastName":"kakinada","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:11:24,548 [pool-1-thread-42] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pwang@spacex.com","contactFirstName":"Puxiao","companyName":"SpaceX","companyGuid":"","contactJobTitle":"LaunchIntern","companyWebAddress":"http:\/\/www.spacex.com","recordId":"Rd82","contactState":"","contactFullName":"Puxiao(Preston)Wang","phone":"","contactLastName":"Wang","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,549 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"puyang.tanahmardhike@frieslandcampina.com","contactFirstName":"Puyang","companyName":"Frieslandcampina","companyGuid":"","contactJobTitle":"supervisor","companyWebAddress":"www.frisianflag.com","recordId":"Rd83","contactState":"","contactFullName":"PuyangAtungbungsuTanahmardhike","phone":"","contactLastName":"Tanahmardhike","contactZipcode":"","contactCountry":"Indonesia","contactMiddleName":""}
+2020-08-07 11:11:24,550 [pool-1-thread-22] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Pyment","companyName":"UniversidadedeS?oPaulo","companyGuid":"","contactJobTitle":"Estudante","companyWebAddress":"http:\/\/www.usp.br\/internacional\/home.php?&idioma=en","recordId":"Rd84","contactState":"","contactFullName":"Pyment.","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:24,551 [pool-1-thread-48] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"puxiang.lai@polyu.edu.hk","contactFirstName":"Puxiang","companyName":"TheHongKongPolytechnicUniversity","companyGuid":"","contactJobTitle":"AssistantProfessor","companyWebAddress":"http:\/\/www.polyu.edu.hk\/","recordId":"Rd85","contactState":"","contactFullName":"PuxiangLai","phone":"","contactLastName":"Lai","contactZipcode":"","contactCountry":"HongKong","contactMiddleName":""}
+2020-08-07 11:11:24,551 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"PvMarli","companyName":"GovernodoEstadodeS?oPaulo","companyGuid":"","contactJobTitle":"funcion?riopublico","companyWebAddress":"http:\/\/","recordId":"Rd86","contactState":"","contactFullName":"PvMarliTakedaoshiquiri","phone":"","contactLastName":"Takedaoshiquiri","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:11:24,552 [pool-1-thread-44] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"peggy.sutherlin@aa.com","contactFirstName":"peggy","companyName":"AmericanAirlines","companyGuid":"","contactJobTitle":"FlightAttendants","companyWebAddress":"http:\/\/jobs.aa.com","recordId":"Rd88","contactState":"","contactFullName":"peggysutherlin","phone":"","contactLastName":"sutherlin","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,553 [pool-1-thread-27] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Pylar","companyName":"CenterforCreativeLeadership","companyGuid":"","contactJobTitle":"Photographer","companyWebAddress":"http:\/\/www.ccl.org","recordId":"Rd87","contactState":"","contactFullName":"PylarAlcantaraDeLeon","phone":"","contactLastName":"DeLeon","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-07 11:11:24,554 [pool-1-thread-24] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"sutliff@osu.edu","contactFirstName":"Peggy","companyName":"TheOhioStateUniversityWexnerMedicalCenter","companyGuid":"","contactJobTitle":"LMSCoordinator","companyWebAddress":"http:\/\/wexnermedical.osu.edu","recordId":"Rd89","contactState":"","contactFullName":"PeggySutliff","phone":"","contactLastName":"Sutliff","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,555 [pool-1-thread-47] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pyron.lacy@kencogroup.com","contactFirstName":"Pyron","companyName":"KencoGroup","companyGuid":"","contactJobTitle":"B2BInventoryControlSupervisor","companyWebAddress":"https:\/\/www.kencogroup.com\/","recordId":"Rd90","contactState":"","contactFullName":"PyronLacy","phone":"","contactLastName":"Lacy","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,556 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"pwenz","companyName":"Government","companyGuid":"","contactJobTitle":"localgovernment","companyWebAddress":"http:\/\/","recordId":"Rd91","contactState":"","contactFullName":"pwenzchindano","phone":"","contactLastName":"dano","contactZipcode":"","contactCountry":"Philippines","contactMiddleName":""}
+2020-08-07 11:11:24,557 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Peggy","companyName":"WeledaBelgium","companyGuid":"","contactJobTitle":"Sales&Support","companyWebAddress":"http:\/\/weleda.be","recordId":"Rd92","contactState":"","contactFullName":"PeggyVandecauter","phone":"","contactLastName":"Vandecauter","contactZipcode":"","contactCountry":"Belgium","contactMiddleName":""}
+2020-08-07 11:11:24,558 [pool-1-thread-26] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"py.phoon@us.ibm.com","contactFirstName":"PY","companyName":"Ibm","companyGuid":"","contactJobTitle":"BusinessOperationsProfessional","companyWebAddress":"www.ibm.com","recordId":"Rd93","contactState":"","contactFullName":"PYPhoon","phone":"","contactLastName":"Phoon","contactZipcode":"","contactCountry":"Malaysia","contactMiddleName":""}
+2020-08-07 11:11:24,559 [pool-1-thread-34] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pkisten@shoprite.co.za","contactFirstName":"Puvan","companyName":"TheShopriteGroupofCompanies","companyGuid":"","contactJobTitle":"Supplylinemanager","companyWebAddress":"http:\/\/www.shopriteholdings.co.za","recordId":"Rd94","contactState":"","contactFullName":"PuvanKisten","phone":"","contactLastName":"Kisten","contactZipcode":"","contactCountry":"SouthAfrica","contactMiddleName":""}
+2020-08-07 11:11:24,560 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pkim@novonordisk.com","contactFirstName":"Pyong","companyName":"NovoNordisk","companyGuid":"","contactJobTitle":"DiabetesCareSpecialist","companyWebAddress":"novonordiskus.com","recordId":"Rd95","contactState":"","contactFullName":"Pyong(Peter)Kim","phone":"","contactLastName":"Kim","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,560 [pool-1-thread-43] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"puustinen.ulla@jhl.fi","contactFirstName":"Puustinen","companyName":"JulkistenjahyvinvointialojenliittoJHL","companyGuid":"","contactJobTitle":"journalist","companyWebAddress":"http:\/\/www.jhl.fi","recordId":"Rd96","contactState":"","contactFullName":"PuustinenUlla","phone":"","contactLastName":"Ulla","contactZipcode":"","contactCountry":"Finland","contactMiddleName":""}
+2020-08-07 11:11:24,562 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pyungguk_kang@lord.com","contactFirstName":"Pyungguk","companyName":"LORDCorporation","companyGuid":"","contactJobTitle":"ArtDirector","companyWebAddress":"http:\/\/www.lord.com","recordId":"Rd97","contactState":"","contactFullName":"PyunggukKang","phone":"","contactLastName":"Kang","contactZipcode":"","contactCountry":"SouthKorea","contactMiddleName":""}
+2020-08-07 11:11:24,562 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"patrick@flourbakery.com","contactFirstName":"patrick","companyName":"FlourBakery+Cafe","companyGuid":"","contactJobTitle":"jkkk","companyWebAddress":"http:\/\/www.flourbakery.com","recordId":"Rd98","contactState":"","contactFullName":"patricklao","phone":"","contactLastName":"lao","contactZipcode":"","contactCountry":"Philippines","contactMiddleName":""}
+2020-08-07 11:11:24,563 [pool-1-thread-37] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Patrick","companyName":"MiniTransA\/S","companyGuid":"","contactJobTitle":"CustomerService\/Disponent","companyWebAddress":"http:\/\/www.minitrans.dk","recordId":"Rd99","contactState":"","contactFullName":"PatrickKlinder","phone":"","contactLastName":"Klinder","contactZipcode":"","contactCountry":"Denmark","contactMiddleName":""}
+2020-08-07 11:11:24,564 [pool-1-thread-40] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"pat.kite@pisd.edu","contactFirstName":"Pat","companyName":"PlanoISD","companyGuid":"","contactJobTitle":"teacher","companyWebAddress":"http:\/\/www.pisd.edu","recordId":"Rd100","contactState":"","contactFullName":"PatKite","phone":"","contactLastName":"Kite","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:11:24,565 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:11:24,610 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:14:29,287 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:14:29,313 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:14:29,383 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"UniversidaddeCaldas","companyGuid":"","contactJobTitle":"Estudiante","companyWebAddress":"http:\/\/www.ucaldas.edu.co\/","recordId":"Rd10","contactState":"","contactFullName":"CarolinaRiosPati?o","phone":"","contactLastName":"RiosPati?o","contactZipcode":"","contactCountry":"Colombia","contactMiddleName":""}
+2020-08-07 11:14:29,384 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj.bahl@fticonsulting.com","contactFirstName":"Manoj","companyName":"FtiConsulting","companyGuid":"","contactJobTitle":"ManagingDirector","companyWebAddress":"www.fticonsulting.com","recordId":"Rd09","contactState":"","contactFullName":"ManojBahl","phone":"","contactLastName":"Bahl","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:14:29,384 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-08-07 11:14:29,385 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie_hanson@cargill.com","contactFirstName":"Natalie","companyName":"Cargill","companyGuid":"","contactJobTitle":"FSQRSupervisor","companyWebAddress":"http:\/\/www.cargill.com","recordId":"Rd39","contactState":"","contactFullName":"NatalieHanson","phone":"","contactLastName":"Hanson","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:29,384 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"ProdamEmpresadeTecnologiadaInforma??oeComunica??odoMunic?piodeS?oPaulo","companyGuid":"","contactJobTitle":"Professora","companyWebAddress":"http:\/\/prodam.sp.gov.br","recordId":"Rd32","contactState":"","contactFullName":"CarolinaSilveiraLeite","phone":"","contactLastName":"SilveiraLeite","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:14:29,386 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mb@us.ibm.com","contactFirstName":"mano","companyName":"Ibm","companyGuid":"","contactJobTitle":"leader","companyWebAddress":"www.ibm.com","recordId":"Rd25","contactState":"","contactFullName":"manob..........","phone":"","contactLastName":"b","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:14:29,387 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"ccampos@ufro.cl","contactFirstName":"Carolina","companyName":"UniversidaddeLaFontera","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"http:\/\/www.ufro.cl","recordId":"Rd16","contactState":"","contactFullName":"CarolinaRam?rezCampos","phone":"","contactLastName":"Campos","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:14:29,387 [pool-1-thread-21] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj@corpbank.co.in","contactFirstName":"Manoj","companyName":"CORPORATIONBANK","companyGuid":"","contactJobTitle":"SeniorManagerwithpremiumGovernmentBank.","companyWebAddress":"http:\/\/www.corpbank.com\/","recordId":"Rd21","contactState":"","contactFullName":"ManojKriplani","phone":"","contactLastName":"Kriplani","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:14:29,388 [pool-1-thread-35] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"desempregado","companyGuid":"","contactJobTitle":"Webdesigner","companyWebAddress":"http:\/\/","recordId":"Rd35","contactState":"","contactFullName":"CarolinadeAssisRodrigues","phone":"","contactLastName":"deRodrigues","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:14:29,387 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.cn@homecredit.co.in","contactFirstName":"Manohar","companyName":"HomeCreditIndia","companyGuid":"","contactJobTitle":"Unemployee","companyWebAddress":"http:\/\/www.homecredit.co.in","recordId":"Rd18","contactState":"","contactFullName":"ManoharCN","phone":"","contactLastName":"CN","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:14:29,773 [pool-1-thread-35] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"n.laurin@criteo.com","contactFirstName":"Natalie","companyName":"Criteo","companyGuid":"","contactJobTitle":"AccountStrategist","companyWebAddress":"www.criteo.com","recordId":"Rd59","contactState":"","contactFullName":"NatalieLaurin","phone":"","contactLastName":"Laurin","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:30,775 [pool-1-thread-21] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nvaramashvili@tbcbank.com.ge","contactFirstName":"nino","companyName":"TbcBank","companyGuid":"","contactJobTitle":"HeadofNBGreportingunit","companyWebAddress":"","recordId":"Rd58","contactState":"","contactFullName":"ninovaramashvili","phone":"","contactLastName":"varamashvili","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:30,775 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.kang@ef.com","contactFirstName":"Natalie","companyName":"EFEducationFirst","companyGuid":"","contactJobTitle":"AdmissionsCoordinator","companyWebAddress":"https:\/\/www.ef.com","recordId":"Rd57","contactState":"","contactFullName":"NatalieKang","phone":"","contactLastName":"Kang","contactZipcode":"","contactCountry":"SouthKorea","contactMiddleName":""}
+2020-08-07 11:14:31,384 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.jensik@aa.com","contactFirstName":"Natalie","companyName":"USAirways(nowAmericanAirlines)","companyGuid":"","contactJobTitle":"Flightattendant","companyWebAddress":"http:\/\/jobs.aa.com","recordId":"Rd56","contactState":"","contactFullName":"NatalieJensik","phone":"","contactLastName":"Jensik","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,389 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nlinnell@uw.edu","contactFirstName":"Natalie","companyName":"UniversityofWashington","companyGuid":"","contactJobTitle":"GraduateStudent","companyWebAddress":"http:\/\/www.washington.edu","recordId":"Rd52","contactState":"","contactFullName":"NatalieLinnell","phone":"","contactLastName":"Linnell","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,389 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.hanley@baesystems.com","contactFirstName":"Natalie","companyName":"BAESystems","companyGuid":"","contactJobTitle":"MechanicalDesigner","companyWebAddress":"http:\/\/www.baesystems.com","recordId":"Rd51","contactState":"","contactFullName":"NatalieHanley","phone":"","contactLastName":"Hanley","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:14:31,390 [pool-1-thread-34] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MetLife","companyGuid":"","contactJobTitle":"AsesordeSeguros","companyWebAddress":"http:\/\/www.metlife.com","recordId":"Rd34","contactState":"","contactFullName":"CarolinaPurataGarcia","phone":"","contactLastName":"Garcia","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-07 11:14:31,391 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"AnaCarolina","companyName":"SearaAlimentosLTDA","companyGuid":"","contactJobTitle":"M?dicaVeterin?riaSanitaristaFrangodecorte","companyWebAddress":"http:\/\/www.seara.com.br","recordId":"Rd05","contactState":"","contactFullName":"AnaCarolinaSpricigo","phone":"","contactLastName":"Spricigo","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:14:31,392 [pool-1-thread-19] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mdeora@concastgroup.com","contactFirstName":"manoj","companyName":"CONCASTGroup","companyGuid":"","contactJobTitle":"GMworksatSodepur","companyWebAddress":"http:\/\/www.concastispat.com","recordId":"Rd19","contactState":"","contactFullName":"manojdeora","phone":"","contactLastName":"deora","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:14:31,386 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.jaramillo@scius.com","contactFirstName":"Natalie","companyName":"ServiceCorporationInternational","companyGuid":"","contactJobTitle":"Receptionist","companyWebAddress":"http:\/\/www.scicorp.com","recordId":"Rd53","contactState":"","contactFullName":"NatalieJaramillo","phone":"","contactLastName":"Jaramillo","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,384 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.hawksworth@austintexas.gov","contactFirstName":"Natalie","companyName":"AstonUniversity","companyGuid":"","contactJobTitle":"PAtoDirectorofHR&OrganisationalDevelopment","companyWebAddress":"http:\/\/www1.aston.ac.uk\/","recordId":"Rd55","contactState":"","contactFullName":"NatalieHawksworth","phone":"","contactLastName":"Hawksworth","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:14:31,385 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"ninoska","companyName":"UnisonoBusinessSolutions","companyGuid":"","contactJobTitle":"atencionalcliente","companyWebAddress":"www.unisonobpo.com","recordId":"Rd60","contactState":"","contactFullName":"ninoskamolinalagos","phone":"","contactLastName":"molinalagos","contactZipcode":"","contactCountry":"Chile","contactMiddleName":""}
+2020-08-07 11:14:31,385 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"ninoshka.perez@jetblue.com","contactFirstName":"Ninoshka","companyName":"JetBlueAirways","companyGuid":"","contactJobTitle":"Inflight","companyWebAddress":"http:\/\/www.jetblue.com","recordId":"Rd54","contactState":"","contactFullName":"NinoshkaPerez","phone":"","contactLastName":"Perez","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,776 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"JAVIERSIMORRA","companyGuid":"","contactJobTitle":"Responsabledeturno","companyWebAddress":"http:\/\/www.javiersimorra.com","recordId":"Rd03","contactState":"","contactFullName":"CarolinaVidaldony","phone":"","contactLastName":"Vidaldony","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-08-07 11:14:31,778 [pool-1-thread-50] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nmartigon@asiautism.com","contactFirstName":"Natalie","companyName":"AutismSpectrumInterventions","companyGuid":"","contactJobTitle":"ParentConsultant","companyWebAddress":"http:\/\/www.ASIautism.com","recordId":"Rd50","contactState":"","contactFullName":"NatalieMartigon","phone":"","contactLastName":"Martigon","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,779 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"mcyr@ambitenergy.com","contactFirstName":"Mark","companyName":"AmbitEnergy","companyGuid":"","contactJobTitle":"MarketingConsultant","companyWebAddress":"http:\/\/ww2.ambitenergy.com","recordId":"Rd23","contactState":"","contactFullName":"MarkSt.Cyr","phone":"","contactLastName":"Cyr","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,780 [pool-1-thread-43] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nmarquette@georgefox.edu","contactFirstName":"Natalie","companyName":"GeorgeFoxUniversity","companyGuid":"","contactJobTitle":"Student","companyWebAddress":"http:\/\/georgefox.edu","recordId":"Rd43","contactState":"","contactFullName":"NatalieMarquette","phone":"","contactLastName":"Marquette","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:31,781 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"carolina.blas@thermofisher.com","contactFirstName":"Carolina","companyName":"ThermoFisherScientific","companyGuid":"","contactJobTitle":"SupplyandDemandAnalyst","companyWebAddress":"https:\/\/www.thermofisher.com","recordId":"Rd06","contactState":"","contactFullName":"CarolinaPerezBlas","phone":"","contactLastName":"Blas","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:32,777 [pool-1-thread-42] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie@theofficegroup.co.uk","contactFirstName":"Natalie","companyName":"TheOfficeGroup","companyGuid":"","contactJobTitle":"MemberExperienceManager","companyWebAddress":"http:\/\/www.theofficegroup.co.uk","recordId":"Rd42","contactState":"","contactFullName":"NatalieHughes","phone":"","contactLastName":"Hughes","contactZipcode":"","contactCountry":"UnitedKingdom","contactMiddleName":""}
+2020-08-07 11:14:32,777 [pool-1-thread-46] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nioka.black@arthrex.com","contactFirstName":"Nioka","companyName":"Arthrex","companyGuid":"","contactJobTitle":"FinshingTech","companyWebAddress":"http:\/\/www.Arthrex.com","recordId":"Rd46","contactState":"","contactFullName":"NiokaBlack","phone":"","contactLastName":"Black","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:32,784 [pool-1-thread-49] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"nataliej@caremedical.com","contactFirstName":"Natalie","companyName":"CareMedicalEquipment","companyGuid":"","contactJobTitle":"customerservice","companyWebAddress":"http:\/\/www.caremedical.com","recordId":"Rd49","contactState":"","contactFullName":"NatalieJaramillo","phone":"","contactLastName":"Jaramillo","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:32,785 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manoj_ks@infosys.com","contactFirstName":"Manoj","companyName":"Infosys","companyGuid":"","contactJobTitle":"ProgrammerAnalyst","companyWebAddress":"www.infosys.com","recordId":"Rd04","contactState":"","contactFullName":"ManojKS","phone":"","contactLastName":"KS","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:32,785 [pool-1-thread-40] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"natalie.marquet@loreal.com","contactFirstName":"Natalie","companyName":"'''L''''or?al'''","companyGuid":"","contactJobTitle":"SeniorTechnician","companyWebAddress":"www.lorealusa.com","recordId":"Rd40","contactState":"","contactFullName":"NatalieMarquet","phone":"","contactLastName":"Marquet","contactZipcode":"","contactCountry":"UnitedStates","contactMiddleName":""}
+2020-08-07 11:14:32,787 [pool-1-thread-27] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"TheWorldBank","companyGuid":"","contactJobTitle":"Consultant","companyWebAddress":"www.worldbank.org","recordId":"Rd27","contactState":"","contactFullName":"CarolinaSalazarPardo","phone":"","contactLastName":"SalazarPardo","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-08-07 11:14:32,788 [pool-1-thread-31] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"ArenaMedia","companyGuid":"","contactJobTitle":"DigitalAccountDirector","companyWebAddress":"www.arenamedia.com","recordId":"Rd31","contactState":"","contactFullName":"CarolinaVadilloL?pez","phone":"","contactLastName":"VadilloL?pez","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-08-07 11:14:32,788 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"","contactFirstName":"Manoel","companyName":"GSGerenciamentodeRiscos","companyGuid":"","contactJobTitle":"Propriet?rio","companyWebAddress":"http:\/\/www.gservice.com.br","recordId":"Rd14","contactState":"","contactFullName":"ManoelSouzaFarias","phone":"","contactLastName":"SouzaFarias","contactZipcode":"","contactCountry":"Brazil","contactMiddleName":""}
+2020-08-07 11:14:32,790 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.singh@bcone.com","contactFirstName":"Manohar","companyName":"Bristlecone","companyGuid":"","contactJobTitle":"AssociatePrincipal(SAPHANA+SAPBOBJ+Spotfire)","companyWebAddress":"www.bcone.com","recordId":"Rd02","contactState":"","contactFullName":"ManoharSingh","phone":"","contactLastName":"Singh","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:14:32,789 [pool-1-thread-24] INFO  utility.callAPISSL - Error records :400 :: Bad Request :: {"contactGuid":"","contactEmail":"manohar.shetty@legrand.ae","contactFirstName":"Manohar","companyName":"Legrand(India)","companyGuid":"","contactJobTitle":"FinanceandIndustrialController","companyWebAddress":"http:\/\/www.legrand.co.in","recordId":"Rd24","contactState":"","contactFullName":"Manoharshetty","phone":"","contactLastName":"shetty","contactZipcode":"","contactCountry":"India","contactMiddleName":""}
+2020-08-07 11:15:26,839 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:15:26,876 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\TestPause.csv
+2020-08-07 11:15:26,994 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,052 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,070 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,213 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,280 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,337 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,402 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,416 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,457 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,470 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,589 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,603 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,622 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,624 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,631 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,633 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,659 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,724 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,762 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,769 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,769 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,812 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,812 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,821 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,824 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,836 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,919 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,959 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,970 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:27,998 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,095 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,155 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,198 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,200 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,231 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,297 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,384 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,406 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,417 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,448 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,449 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,452 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,477 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,512 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,514 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,518 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,523 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,556 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,560 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,670 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,797 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,797 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,859 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,878 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,890 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,897 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,972 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,977 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:28,990 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:29,035 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:29,047 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:29,084 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:29,097 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-08-07 11:15:29,134 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}

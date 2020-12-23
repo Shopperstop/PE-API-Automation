@@ -29,10 +29,22 @@ public class PEAPI_ResponseFactory extends ResponseService {
 	
 	private static String app_name = "api";
 
+	public Response peModeResponse(String url, String jsonBody, Map<String, String> hm )
+	{
+		return getResponse(url, jsonBody, null, "application/json",hm, RequestMethodType.POST, false);
+	}
+	
 	public Response peResponse(String url, String jsonBody, String mode )
 	{
 		return getResponse(url, jsonBody, null, "application/json",getHeadersWithMode(mode), RequestMethodType.POST, false);
 	}
+	
+	
+//	public Response piplResponse(String url, String jsonBody, String mode )
+//	{
+//			return getResponse(url, jsonBody, null, "application/x-www-form-urlencoded",RequestMethodType.POST, false);
+//	}
+
 
 
 

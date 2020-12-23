@@ -1,0 +1,48 @@
+2020-09-04 13:04:40,716 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\961verify1 - Copy.csv
+2020-09-04 13:04:40,777 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\961verify1 - Copy.csv
+2020-09-04 13:04:41,816 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:42,033 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:42,147 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:42,215 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,082 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,242 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,275 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,278 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,282 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,306 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,599 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,609 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,917 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:43,974 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,195 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,366 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,598 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,651 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,652 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:44,685 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,168 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,171 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,229 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,377 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,439 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,473 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,509 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,528 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,539 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,625 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,715 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,744 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,823 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:45,996 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:46,090 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:46,674 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:46,927 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:46,972 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:46,986 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:47,387 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:47,516 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:47,529 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:47,610 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:48,547 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-09-04 13:04:48,548 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\961verify1 - Copy.csv
+2020-09-04 13:04:48,592 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\961verify1 - Copy.csv

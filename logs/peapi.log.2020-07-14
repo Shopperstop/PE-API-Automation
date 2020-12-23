@@ -1,0 +1,294 @@
+2020-07-14 18:08:16,783 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:08:16,813 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:08:17,111 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:17,167 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:17,191 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:17,266 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:17,383 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:17,855 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:18,033 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:18,258 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,036 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,835 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,893 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,900 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,903 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,904 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,918 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,919 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,920 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,923 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,923 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,929 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,929 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,939 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,944 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:19,972 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,023 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,051 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,074 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,098 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,128 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,175 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,250 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,269 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,289 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,464 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,582 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,661 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,683 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,968 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,980 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:20,988 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,002 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,031 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,277 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,509 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,525 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,698 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,723 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,789 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,893 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:21,992 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,144 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,144 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,154 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,156 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,156 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,157 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,200 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,200 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,200 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,223 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,252 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,398 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,564 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,645 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,658 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:22,880 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:23,071 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:23,206 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:23,291 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:24,385 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:24,657 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:25,478 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:26,071 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:26,072 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:26,744 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:26,760 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:27,165 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:27,659 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:39,942 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:40,129 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:41,590 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:45,932 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:08:45,932 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:08:45,978 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:09:49,567 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:09:49,590 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:09:49,769 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,771 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,782 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,793 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,793 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,796 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,822 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,833 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,847 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:49,949 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:50,974 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:50,992 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,021 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,034 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,054 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,124 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,150 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:51,234 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,018 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,032 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,034 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,141 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,172 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,213 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,235 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,251 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,395 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,404 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,423 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,429 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,431 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,433 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,434 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,436 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,441 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,443 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,444 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,444 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,444 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,445 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,456 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,462 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,465 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,487 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,680 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,680 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,707 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,708 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,717 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,758 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,773 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,815 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,838 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,854 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,856 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:52,882 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,031 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,038 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,039 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,039 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,053 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,138 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,140 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,149 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,161 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,173 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,176 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,177 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,187 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,205 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,214 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,225 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,240 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,243 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,249 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,250 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,251 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:09:53,813 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:10:09,807 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:10:11,365 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:10:12,436 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:10:12,439 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:10:12,439 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:10:12,496 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\CompanyMatchback.csv
+2020-07-14 18:19:27,594 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:19:27,612 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:19:27,891 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:31,044 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:31,923 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:32,086 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:32,920 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:33,892 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:34,158 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:37,999 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:45,840 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:19:45,840 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:19:45,864 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:20:31,469 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:20:31,486 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:20:31,679 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,690 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,706 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,712 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,723 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,725 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,730 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:31,747 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:36,869 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:20:36,869 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:20:36,895 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:04,264 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:04,282 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:04,437 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,445 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,446 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,446 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,457 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,466 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,469 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:04,471 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:06,578 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:06,579 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:06,602 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:29,562 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:29,579 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:29,751 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:29,751 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:29,757 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:29,798 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:32,766 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:33,068 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:33,829 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:35,319 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:35,863 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 18:23:35,864 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 18:23:35,887 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\IndexMatchback.csv
+2020-07-14 19:07:10,554 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:07:10,568 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:07:11,087 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,243 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,292 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,301 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,351 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,363 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,388 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,700 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,713 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:11,777 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,039 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,348 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,348 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,380 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,473 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,473 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,599 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,614 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,973 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:12,973 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,130 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,161 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,208 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,239 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,286 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,411 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:13,505 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:14,123 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:14,755 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:18,278 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:31,579 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:07:31,579 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:07:31,620 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:09:31,293 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:09:31,318 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:09:31,692 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,770 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,817 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,817 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,833 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,848 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:31,958 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,072 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,086 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,099 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,177 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,239 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,364 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,427 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,567 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,630 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,692 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,786 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,802 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:32,833 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,083 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,114 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,145 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,161 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,239 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,333 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,349 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:33,864 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:34,239 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:36,192 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:38,101 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-14 19:09:38,102 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv
+2020-07-14 19:09:38,126 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\PersonMatchback.csv

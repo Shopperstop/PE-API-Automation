@@ -1,0 +1,63 @@
+2020-11-23 12:40:32,134 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:40:32,206 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:40:32,300 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"malick.dieye@schneider-electric.com","contactFirstName":"","companyName":"Schneider Electric","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.schneider-electric.com","recordId":"IOMH_08","contactState":"","contactFullName":"El Hadji Malick DIEYE","phone":"","contactLastName":"","contactCountry":"France","contactMiddleName":""}
+2020-11-23 12:40:32,300 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mai.le@socgen.com","contactFirstName":"","companyName":"Soci?t? G?n?rale","contactZipCode":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.societegenerale.com","recordId":"IOMH_10","contactState":"","contactFullName":"Mai Linh L?","phone":"","contactLastName":"","contactCountry":"France","contactMiddleName":""}
+2020-11-23 12:40:32,300 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"malgorzata.moussa@by.abb.com","contactFirstName":"Malgorzata","companyName":"ABB Information Systems Ltd.","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_11","contactState":"","contactFullName":"Malgorzata Moussa","phone":"","contactLastName":"Moussa","contactCountry":"","contactMiddleName":""}
+2020-11-23 12:40:32,300 [pool-1-thread-15] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"marco.reynoso@j2.com","contactFirstName":"Marco","companyName":"Callstream","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_15","contactState":"","contactFullName":"MARCO REYNOSO","phone":"","contactLastName":"Reynoso","contactCountry":"","contactMiddleName":""}
+2020-11-23 12:40:32,300 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mandling_quock@colpal.com","contactFirstName":"","companyName":"Colgate-Palmolive","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.colgate-palmolive.com","recordId":"IOMH_04","contactState":"","contactFullName":"Mand-Ling Quock","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:32,667 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"margaux.delagarde@foodora.fr","contactFirstName":"Margaux","companyName":"Delivery Hero SE","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_16","contactState":"","contactFullName":"Margaux DELAGARDE","phone":"","contactLastName":"Delagarde","contactCountry":"","contactMiddleName":""}
+2020-11-23 12:40:33,669 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"matthew.jacobsen@willscot.com","contactFirstName":"","companyName":"Williams Scotsman","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.willscot.com","recordId":"IOMH_06","contactState":"","contactFullName":"arjun patel","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:34,297 [pool-1-thread-17] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mitch.fein@accuform.com","contactFirstName":"","companyName":"Accuform (Signs)","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.accuform.com","recordId":"IOMH_17","contactState":"","contactFullName":"Mitch Fein","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:34,297 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"milos.nickeraski@us.mcd.com","contactFirstName":"","companyName":"McDonald's","contactZipCode":"","contactJobTitle":"","companyWebAddress":"https:\/\/corporate.mcdonalds.com\/","recordId":"IOMH_02","contactState":"","contactFullName":"Milos Nickeraski","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:34,297 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mark.ballmann@premierfoods.co.uk","contactFirstName":"Mark","companyName":"Premier Bakerys Ireland","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_14","contactState":"","contactFullName":"Mark Ballmann","phone":"","contactLastName":"Ballmann","contactCountry":"","contactMiddleName":""}
+2020-11-23 12:40:34,297 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mikey.vandelaar@salivia.com","contactFirstName":"","companyName":"Alken-Maess","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_05","contactState":"","contactFullName":"Mikey Van Laar","phone":"","contactLastName":"","contactCountry":"Australia","contactMiddleName":""}
+2020-11-23 12:40:34,297 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mann.zhianfar@fr.schneider-electric.com","contactFirstName":"Mann","companyName":"1 Schneider Electric Bridge Front Office GLOBAL ORG","contactZipCode":"","contactJobTitle":"","companyWebAddress":"www.schneider.com","recordId":"IOMH_12","contactState":"","contactFullName":"Mann Zhianfar","phone":"","contactLastName":"ZHIANFAR","contactCountry":"","contactMiddleName":""}
+2020-11-23 12:40:34,657 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mikey.vandelaar@salivia.com","contactFirstName":"","companyName":"Alken-Maess","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_01","contactState":"","contactFullName":"Mikey Van Laar","phone":"","contactLastName":"","contactCountry":"Australia","contactMiddleName":""}
+2020-11-23 12:40:34,673 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"morten_loderup@dell.com","contactFirstName":"","companyName":"Dell","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.dell.com","recordId":"IOMH_03","contactState":"","contactFullName":"Morten Loderup","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:35,670 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"mike.taylor@bt.com","contactFirstName":"","companyName":"BT","contactZipCode":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.btplc.com","recordId":"IOMH_09","contactState":"","contactFullName":"Mike Taylor","phone":"","contactLastName":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-11-23 12:40:35,670 [pool-1-thread-7] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"matthew.blanock@foxsports.net","contactFirstName":"","companyName":"21st Century Fox","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_07","contactState":"","contactFullName":"arjun patel","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:36,317 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactEmail":"matthew.jacobsen@willscot.com","contactFirstName":"","companyName":"Williams Scotsman","contactZipCode":"","contactJobTitle":"","companyWebAddress":"","recordId":"IOMH_13","contactState":"","contactFullName":"Matthew Jacobsen","phone":"","contactLastName":"","contactCountry":"United States","contactMiddleName":""}
+2020-11-23 12:40:36,317 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:40:36,332 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:42:46,504 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:42:46,520 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:42:49,548 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:49,568 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:49,570 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:49,649 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:49,886 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:50,376 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:50,690 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:51,041 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:51,382 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:51,398 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:51,632 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:52,016 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:52,375 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:52,732 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:52,954 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:53,781 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:55,870 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-11-23 12:42:55,871 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 12:42:55,902 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 19:36:44,383 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 19:36:44,444 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 19:36:45,093 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,132 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,168 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,313 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,313 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,315 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,316 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,465 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,528 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,550 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,810 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:45,899 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:46,762 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:47,089 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:47,399 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:47,597 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:50,880 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-11-23 19:36:50,880 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv
+2020-11-23 19:36:50,908 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\InOutMisHand.csv

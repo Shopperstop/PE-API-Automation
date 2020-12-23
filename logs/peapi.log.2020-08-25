@@ -1,0 +1,9 @@
+2020-08-25 13:16:59,690 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\ECSEnhancement.csv
+2020-08-25 13:16:59,799 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\ECSEnhancement.csv
+2020-08-25 13:17:00,284 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-08-25 13:17:01,686 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-08-25 13:17:01,698 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-08-25 13:17:01,799 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-08-25 13:17:01,854 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-08-25 13:17:01,855 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\ECSEnhancement.csv
+2020-08-25 13:17:01,867 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\ECSEnhancement.csv

@@ -5,7 +5,8 @@
     <classes>
       <class name="com.smarteinc.api.tests.MatchBackTest">
         <methods>
-          <include name="GenericPEAPIMatchBackTestSet2"/>
+          <include name="TestPEAPI_Client_Mode"/>
+          <include name="TestPEAPI_WithMode"/>
           <include name="beforeTest"/>
           <include name="teardownManagers"/>
           <include name="intializeManager"/>

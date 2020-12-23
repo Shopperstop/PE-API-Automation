@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17225" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
+  <suite name="Suite" duration-ms="3262" started-at="2020-12-18T10:49:56Z" finished-at="2020-12-18T10:49:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17225" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
-      <class name="com.smarteinc.salesforce.ui.CreateCustomFields">
-        <test-method status="PASS" signature="initializemanager()[pri:0, instance:com.smarteinc.salesforce.ui.CreateCustomFields@10d59286]" name="initializemanager" is-config="true" duration-ms="17214" started-at="2020-02-21T06:18:33Z" finished-at="2020-02-21T06:18:50Z">
+    <test name="Test" duration-ms="3262" started-at="2020-12-18T10:49:56Z" finished-at="2020-12-18T10:49:59Z">
+      <class name="com.smarteinc.api.tests.PEApiExecutionWithCSVTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.smarteinc.api.tests.PEApiExecutionWithCSVTest@15de0b3c]" name="beforeTest" is-config="true" duration-ms="16" started-at="2020-12-18T10:49:56Z" finished-at="2020-12-18T10:49:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- initializemanager -->
-      </class> <!-- com.smarteinc.salesforce.ui.CreateCustomFields -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="readCSV()[pri:0, instance:com.smarteinc.api.tests.PEApiExecutionWithCSVTest@15de0b3c]" name="readCSV" duration-ms="3198" started-at="2020-12-18T10:49:56Z" finished-at="2020-12-18T10:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCSV -->
+      </class> <!-- com.smarteinc.api.tests.PEApiExecutionWithCSVTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

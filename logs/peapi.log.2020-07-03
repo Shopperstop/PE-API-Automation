@@ -1,0 +1,66 @@
+2020-07-03 18:15:27,732 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:15:27,796 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:15:30,881 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:31,046 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:32,827 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:34,454 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:34,506 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:36,761 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:36,890 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:37,374 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:39,768 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:40,515 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:40,654 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:41,949 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:42,257 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:43,681 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:44,034 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:44,396 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:44,975 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:45,553 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:15:45,553 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:15:45,591 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:16:50,942 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:16:50,966 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:16:52,516 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:53,401 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:53,718 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:54,022 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:55,218 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:55,686 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:55,890 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:55,890 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:56,077 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:56,358 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:56,671 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:56,733 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:56,827 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:57,515 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:58,014 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:58,108 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:16:59,016 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:17:00,718 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:17:00,718 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:17:00,743 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\WrongDomain.csv
+2020-07-03 18:24:25,903 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\WrongDomain_input.csv
+2020-07-03 18:24:25,921 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\WrongDomain_input.csv
+2020-07-03 18:24:26,843 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:26,881 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:27,333 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:27,568 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:28,547 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:28,812 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:28,843 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:30,815 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:31,296 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:32,030 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:32,557 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:34,033 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:34,093 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:34,155 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:34,936 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:35,280 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:37,879 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:50,735 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-03 18:24:50,735 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\WrongDomain_input.csv
+2020-07-03 18:24:50,749 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\WrongDomain_input.csv

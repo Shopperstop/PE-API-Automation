@@ -1,4 +1,7 @@
-C:\Users\Poonam Jha\poonam\com.smarteinc.automation\src\test\java\com\smarteinc\api\tests\PEAPI_Generic_Tran_tests.java
-C:\Users\Poonam Jha\poonam\com.smarteinc.automation\src\test\java\com\smarteinc\api\tests\APIBaseTest.java
-C:\Users\Poonam Jha\poonam\com.smarteinc.automation\src\test\java\com\smarteinc\api\tests\TestCsv.java
-C:\Users\Poonam Jha\poonam\com.smarteinc.automation\src\test\java\com\smarteinc\api\tests\MatchBackTest.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/api/tests/PEApiExecutionWithCSVTest.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/salesforce/ui/BaseTest.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/api/tests/PEAPI_Generic_Tran_tests.java
+/root/Automation/com.smarteinc.automation/src/test/java/callApiNwew.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/salesforce/ui/CreateCustomFields.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/api/tests/MatchBackTest.java
+/root/Automation/com.smarteinc.automation/src/test/java/com/smarteinc/api/tests/APIBaseTest.java

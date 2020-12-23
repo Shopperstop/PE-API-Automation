@@ -1,0 +1,79 @@
+2020-07-16 17:53:50,222 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:53:50,250 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:53:50,375 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_08","contactState":"","contactFullName":"","phone":"","contactUrl":"marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"mwelch@crateandbarrel.com","contactFirstName":"","companyName":"Euromarket?Designs,?Inc.","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_12","contactState":"","contactFullName":"Molly?Welch","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/mike-dimirjian-20b90425","contactLastName":"","contactZipcode":"","contactCountry":"United?States","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_05","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_11","contactState":"","contactFullName":"","phone":"","contactUrl":"1.22E+14","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_03","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/molly-welch-8aa02743","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_04","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/mike-dimirjian-20b90425","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,375 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_10","contactState":"","contactFullName":"","phone":"","contactUrl":"%#$@%$#%","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:50,765 [pool-1-thread-7] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_07","contactState":"","contactFullName":"","phone":"","contactUrl":"www.linkedin.com\/marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:51,765 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_09","contactState":"","contactFullName":"","phone":"","contactUrl":"","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:51,780 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_14","contactState":"","contactFullName":"","phone":"","contactUrl":"linkedin.com\/marcello-nunes-1ba66630","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:52,381 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_02","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/michael-lysaght","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:52,384 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_06","contactState":"","contactFullName":"","phone":"","contactUrl":"www.linkedin.com\/in\/marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:52,385 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_01","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/marcello-nunes-1ba66630","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:52,397 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_13","contactState":"","contactFullName":"","phone":"","contactUrl":"wwwww.linkedin.com\/us\/marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 17:53:52,399 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:53:52,406 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:57:43,150 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:57:43,165 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 17:57:43,359 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:43,359 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:43,375 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:43,406 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:43,421 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:45,177 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-16 17:57:45,237 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:02:43,311 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_03","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/molly-welch-8aa02743","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:43,326 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_05","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/marisol-castellanos-fernandez-1977487","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:43,331 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_01","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/marcello-nunes-1ba66630","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:43,337 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_04","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/mike-dimirjian-20b90425","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:43,340 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_14","contactState":"","contactFullName":"","phone":"","contactUrl":"linkedin.com\/marcello-nunes-1ba66630","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:44,185 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"mwelch@crateandbarrel.com","contactFirstName":"","companyName":"Euromarket?Designs,?Inc.","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_12","contactState":"","contactFullName":"Molly?Welch","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/mike-dimirjian-20b90425","contactLastName":"","contactZipcode":"","contactCountry":"United?States","contactMiddleName":""}
+2020-07-16 18:02:45,173 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :502 :: Proxy Error :: {"contactGuid":"","contactEmail":"","contactFirstName":"","companyName":"","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"CURL_02","contactState":"","contactFullName":"","phone":"","contactUrl":"https:\/\/www.linkedin.com\/in\/michael-lysaght","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-16 18:02:45,173 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:02:45,188 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:05,828 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:05,843 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:06,203 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:06,203 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:06,218 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:07,936 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:07,944 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:07,959 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,034 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,515 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,593 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,672 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,672 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,672 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,703 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,812 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:08,828 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:08,843 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:34,696 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:34,703 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:15:34,843 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:34,922 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:34,922 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:34,937 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:15:36,203 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:16:16,672 [main] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:16:16,679 [main] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:16:16,875 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:16:16,875 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:16:16,896 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:16:18,255 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:48,083 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:48,098 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:48,098 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:48,848 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:48,863 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,016 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,235 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,336 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,494 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,650 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-16 18:18:49,666 [main] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv
+2020-07-16 18:18:49,681 [main] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\contactUrl_input.csv

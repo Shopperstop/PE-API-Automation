@@ -1,0 +1,365 @@
+2020-07-20 12:41:49,204 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:41:49,234 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:41:49,278 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"msiwinski@cadence.com","contactFirstName":"","companyName":"Cadence Design Systems","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.cadence.com","recordId":"RSI_39","contactState":"","contactFullName":"Michal Siwinski","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:49,279 [pool-1-thread-35] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"manel.fernandez@wurth.es","contactFirstName":"","companyName":"Wurth Espa?a S.A.","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.wurth.es","recordId":"RSI_35","contactState":"","contactFullName":"Manel Fernandez Aniorte","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-07-20 12:41:49,279 [pool-1-thread-38] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mnguyen@adlerglobal.com","contactFirstName":"","companyName":"ADLER Werbegeschenke","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.adlerwerbegeschenke.de","recordId":"RSI_38","contactState":"","contactFullName":"Mirjam Nguyen","phone":"","contactLastName":"","contactZipcode":"","contactCountry":" - ","contactMiddleName":""}
+2020-07-20 12:41:49,279 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mark.edwards@nih.gov","contactFirstName":"","companyName":"National Institutes of Health (NIH): Intramural Research Program (IRP)","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/irp.nih.gov\/","recordId":"RSI_02","contactState":"","contactFullName":"Mark Edwards","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:49,278 [pool-1-thread-34] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"myles.gilbertson@unilever.com","contactFirstName":"","companyName":"Unilever","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.unilever.com","recordId":"RSI_34","contactState":"","contactFullName":"Myles Gilbertson","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:41:49,278 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"m.ruggieri@rheinmetall.it","contactFirstName":"","companyName":"Rheinmetall Italia","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.rheinmetall-defence.com\/en\/rheinmetall_defence\/company\/divisions_and_subsidiaries\/rheinmetall_italia\/index.php","recordId":"RSI_01","contactState":"","contactFullName":"Marco Ruggieri","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Italy","contactMiddleName":""}
+2020-07-20 12:41:49,369 [pool-1-thread-37] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"michael.breuer@schweizer-metallbau.ch","contactFirstName":"","companyName":"Ernst Schweizer AG","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.schweizer-metallbau.ch","recordId":"RSI_37","contactState":"","contactFullName":"michael breuer","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Switzerland","contactMiddleName":""}
+2020-07-20 12:41:50,376 [pool-1-thread-31] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mrk@horten.dk","contactFirstName":"","companyName":"Horten Advokatpartnerselskab","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.horten.dk","recordId":"RSI_31","contactState":"","contactFullName":"Mads Rau-Kaufmann","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Denmark","contactMiddleName":""}
+2020-07-20 12:41:51,375 [pool-1-thread-30] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"michael.thews@johnroberts.com","contactFirstName":"","companyName":"The John Roberts Company","companyGuid":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.johnroberts.com","recordId":"RSI_30","contactState":"","contactFullName":"Michael Thews","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:52,369 [pool-1-thread-36] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"martin.kneale@iompost.com","contactFirstName":"","companyName":"Isle of Man Post Office","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.iompost.com","recordId":"RSI_36","contactState":"","contactFullName":"Martin Kneale","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:41:53,382 [pool-1-thread-33] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"malena.sallescook@options.net","contactFirstName":"","companyName":"Maison Options","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.options.fr\/","recordId":"RSI_33","contactState":"","contactFullName":"Malena SALLES-COOK","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:41:54,385 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mborchers@mdlz.com","contactFirstName":"","companyName":"Mondelez International","companyGuid":"","contactJobTitle":"","companyWebAddress":"eu.mondelezinternational.com","recordId":"RSI_32","contactState":"","contactFullName":"Markus Borchers","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Germany","contactMiddleName":""}
+2020-07-20 12:41:55,386 [pool-1-thread-29] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"msekula@inprocorp.com","contactFirstName":"","companyName":"Inpro Corporation","companyGuid":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.inprocorp.com","recordId":"RSI_29","contactState":"","contactFullName":"Michael Sekula, LEED Green Associate","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:56,259 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"monika.zillig@sfs.biz","contactFirstName":"","companyName":"SFS intec","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.sfsintec.biz","recordId":"RSI_28","contactState":"","contactFullName":"Monika Zillig","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Switzerland","contactMiddleName":""}
+2020-07-20 12:41:56,259 [pool-1-thread-27] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"myriam.khedair@publicisgroupe.com","contactFirstName":"","companyName":"Publicis Groupe","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.publicisgroupe.com","recordId":"RSI_27","contactState":"","contactFullName":"Myriam Khedair","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:41:56,259 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"moviedo@segurosmundial.com.co","contactFirstName":"","companyName":"Seguros Mundial","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.segurosmundial.com.co","recordId":"RSI_25","contactState":"","contactFullName":"Monica Oviedo","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Colombia","contactMiddleName":""}
+2020-07-20 12:41:56,276 [pool-1-thread-26] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"tstokely@scottcompanies.com","contactFirstName":"","companyName":"Scott Equipment Company, LLC","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.scottcompanies.com","recordId":"RSI_26","contactState":"","contactFullName":"mark wilson","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:56,276 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"maria.achi@gruponumero1.com","contactFirstName":"","companyName":"Grupo N?mero 1","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.gruponumero1.com\/","recordId":"RSI_23","contactState":"","contactFullName":"MARIA ACHI","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-07-20 12:41:56,276 [pool-1-thread-24] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mkim@medtronic.com","contactFirstName":"","companyName":"Medtronic","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.medtronic.com","recordId":"RSI_24","contactState":"","contactFullName":"Michael S Kim","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:56,369 [pool-1-thread-22] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"morelup@hertz.com","contactFirstName":"","companyName":"Hertz","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.hertz.com","recordId":"RSI_22","contactState":"","contactFullName":"Mary Orelup","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:56,384 [pool-1-thread-21] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marc.laczny@circet.fr","contactFirstName":"","companyName":"Circet","companyGuid":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.circet.fr","recordId":"RSI_21","contactState":"","contactFullName":"Marc Laczny","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:41:57,390 [pool-1-thread-19] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mhowell@cohencpa.com","contactFirstName":"","companyName":"Cohen & Company","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.cohencpa.com","recordId":"RSI_19","contactState":"","contactFullName":"Megan Howell","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:57,393 [pool-1-thread-20] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"michelle.pitts@fedex.com","contactFirstName":"","companyName":"FedEx","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.fedex.com\/","recordId":"RSI_20","contactState":"","contactFullName":"Michelle Pitts","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:58,387 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mei.wong@globalknowledge.co.uk","contactFirstName":"","companyName":"Global Knowledge UK","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.globalknowledge.com\/en-gb\/training\/courses","recordId":"RSI_18","contactState":"","contactFullName":"Mei Wong","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:41:58,392 [pool-1-thread-17] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"maria.musco@sprint.com","contactFirstName":"","companyName":"Clearwire","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.clearwire.com","recordId":"RSI_17","contactState":"","contactFullName":"Maria Musco","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:59,395 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mcamelia@datanetworks.com","contactFirstName":"","companyName":"Data Networks","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.datanetworks.com","recordId":"RSI_16","contactState":"","contactFullName":"Murray Camelia","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:59,401 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mc@avaya.com","contactFirstName":"","companyName":"Avaya Financial Services","companyGuid":"","contactJobTitle":"","companyWebAddress":" - ","recordId":"RSI_14","contactState":"","contactFullName":"Maria Curry","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:41:59,401 [pool-1-thread-15] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mphillipsduran@meetings-incentives.com","contactFirstName":"","companyName":"Meetings & Incentives Worldwide, Inc.","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.meetings-incentives.com","recordId":"RSI_15","contactState":"","contactFullName":"Maggie Phillips-Dur?n","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:00,392 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marilyn.jarrige@yves-rocher.nl","contactFirstName":"","companyName":"Groupe Rocher","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.groupe-rocher.com","recordId":"RSI_12","contactState":"","contactFullName":"marilyn jarrige","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:42:00,406 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"matthew.broom@kineticit.com.au","contactFirstName":"","companyName":"Kinetic IT","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.kineticit.com.au","recordId":"RSI_13","contactState":"","contactFullName":"Matthew Broom","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Australia","contactMiddleName":""}
+2020-07-20 12:42:00,407 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"garberichmichael@hcmc.com","contactFirstName":"","companyName":"Hennepin County Medical Center","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.hcmc.org","recordId":"RSI_11","contactState":"","contactFullName":"Michael Garberich, CIPP\/US","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:00,407 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"masaaki.isozaki@jp.sony.com","contactFirstName":"","companyName":"Sony","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.sony.net","recordId":"RSI_10","contactState":"","contactFullName":"Masaaki Isozaki","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Japan","contactMiddleName":""}
+2020-07-20 12:42:00,407 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mherburt@csc.com","contactFirstName":"","companyName":"Csc","companyGuid":"","contactJobTitle":"","companyWebAddress":"www.csc.com","recordId":"RSI_08","contactState":"","contactFullName":"Martin Herburt","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Sweden","contactMiddleName":""}
+2020-07-20 12:42:01,386 [pool-1-thread-9] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"modesto.rivera@houstontx.gov","contactFirstName":"","companyName":"City of Houston","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.houstontx.gov\/","recordId":"RSI_09","contactState":"","contactFullName":"Modesto Rivera","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-7] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mike.huff@londoncontainerterminal.com","contactFirstName":"","companyName":"London Container Terminal","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/londoncontainerterminal.com","recordId":"RSI_07","contactState":"","contactFullName":"Mike Huff","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-5] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"michael.glatthard@energie360.ch","contactFirstName":"","companyName":"Energie 360? AG","companyGuid":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.energie360.ch\/de\/","recordId":"RSI_05","contactState":"","contactFullName":"Michael Glatthard","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Switzerland","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-6] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mbernhard@bernhardwoodwork.com","contactFirstName":"","companyName":"Bernhard Woodwork Ltd.","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.BernhardWoodwork.com","recordId":"RSI_06","contactState":"","contactFullName":"Mark Bernhard","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-4] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mai.britt.finkelsen@tryg.no","contactFirstName":"","companyName":"Tryg","companyGuid":"","contactJobTitle":"","companyWebAddress":"www.tryg.no","recordId":"RSI_04","contactState":"","contactFullName":"Mai Britt Finkelsen","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Norway","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-3] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marsha.osullivan@monster.ie","contactFirstName":"","companyName":"Monster","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.monster.com","recordId":"RSI_03","contactState":"","contactFullName":"Marsha O Sullivan","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-40] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mcumps@washtec.be","contactFirstName":"","companyName":"WashTec Benelux BV","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.washtec.nl","recordId":"RSI_40","contactState":"","contactFullName":"Marc Cumps","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Netherlands","contactMiddleName":""}
+2020-07-20 12:42:01,402 [pool-1-thread-42] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mikea@hwchamber.co.uk","contactFirstName":"","companyName":"Herefordshire & Worcestershire Chamber of Commerce","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.hwchamber.co.uk","recordId":"RSI_42","contactState":"","contactFullName":"Mike Ashton","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:01,417 [pool-1-thread-49] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"manfred.lachauer@advantech-dlog.com","contactFirstName":"","companyName":"Advantech Service-IoT GmbH","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.advantech-service-iot.eu\/","recordId":"RSI_49","contactState":"","contactFullName":"Manfred Lachauer","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Germany","contactMiddleName":""}
+2020-07-20 12:42:02,384 [pool-1-thread-48] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marie.cobac@bcdtravel.nl","contactFirstName":"","companyName":"BCD Travel","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.bcdtravel.com","recordId":"RSI_48","contactState":"","contactFullName":"Marie Cobac","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Netherlands","contactMiddleName":""}
+2020-07-20 12:42:02,416 [pool-1-thread-39] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"miguel.rodriguez@graddo.es","contactFirstName":"","companyName":"tessi GRADDO","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.tessigraddo.es\/","recordId":"RSI_51","contactState":"","contactFullName":"Miguel Angel P?rez Rodr?guez","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-07-20 12:42:02,416 [pool-1-thread-38] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"matthew.jaques@palmerharvey.co.uk","contactFirstName":"","companyName":"Palmer and Harvey","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.palmerharvey.co.uk","recordId":"RSI_53","contactState":"","contactFullName":"Matthew Jaques","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:02,416 [pool-1-thread-35] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mike@kenandy.com","contactFirstName":"","companyName":"Kenandy","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.kenandy.com","recordId":"RSI_52","contactState":"","contactFullName":"Mike Marshall?","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:02,432 [pool-1-thread-2] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"miguel.hernandez@capgemini.com","contactFirstName":"","companyName":"Capgemini","companyGuid":"","contactJobTitle":"","companyWebAddress":"https:\/\/www.capgemini.com","recordId":"RSI_54","contactState":"","contactFullName":"Miguel Escalada Hernandez","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-34] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mark.jarvis@lonmin.com","contactFirstName":"","companyName":"Lonmin Plc","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.lonmin.com\/","recordId":"RSI_55","contactState":"","contactFullName":"Mark Jarvis","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"South Africa","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-46] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"amanda.todd@sprint.com","contactFirstName":"","companyName":"Sprint","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.sprint.com","recordId":"RSI_46","contactState":"","contactFullName":"Amanda Todd","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-50] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"joe.maratea@valero.com","contactFirstName":"","companyName":"Valero Energy Corporation","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.valero.com","recordId":"RSI_50","contactState":"","contactFullName":"Maratea Joe","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-47] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mike.vitelli@payless.com","contactFirstName":"","companyName":"Payless ShoeSource","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.payless.com","recordId":"RSI_47","contactState":"","contactFullName":"Michael A. Vitelli","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-1] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"markusm@incoe.astra.co.id","contactFirstName":"","companyName":"PT Century Batteries Indonesia","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.incoe.astra.co.id\/","recordId":"RSI_56","contactState":"","contactFullName":"Meldianto Markus","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Indonesia","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-45] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"m.boland@themarsden.co.uk","contactFirstName":"","companyName":"Marsden Building Society","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.themarsden.co.uk\/","recordId":"RSI_45","contactState":"","contactFullName":"Melissa Boland","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:02,434 [pool-1-thread-41] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"e.michel@samarais.com","contactFirstName":"","companyName":"Grupo ampm","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.grupoampm.com","recordId":"RSI_41","contactState":"","contactFullName":"ERIC MICHEL GUTIERREZ AYALA","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Mexico","contactMiddleName":""}
+2020-07-20 12:42:02,465 [pool-1-thread-43] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mathieu.rumeur@imerys.com","contactFirstName":"","companyName":"Imerys","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.imerys.com","recordId":"RSI_43","contactState":"","contactFullName":"mathieu rumeur","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:42:02,465 [pool-1-thread-37] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"esnaadmohd@esnaad.com","contactFirstName":"","companyName":"ESNAAD","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.esnaad.ae","recordId":"RSI_57","contactState":"","contactFullName":"ESNAAD-Mohd Kamal","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United Arab Emirates","contactMiddleName":""}
+2020-07-20 12:42:02,465 [pool-1-thread-31] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":" - ","contactFirstName":"","companyName":"BBVA","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/bbva.info\/bbvacareers","recordId":"RSI_58","contactState":"","contactFullName":"Jose Manuel Gonz?lez Touron","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+2020-07-20 12:42:02,465 [pool-1-thread-30] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"markus.lyyrto@koivunen.fi","contactFirstName":"","companyName":"Koivunen Oy","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/koivunen.fi","recordId":"RSI_59","contactState":"","contactFullName":"Markus Lyyrt?","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Finland","contactMiddleName":""}
+2020-07-20 12:42:02,465 [pool-1-thread-44] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"leachm@nationwide.com","contactFirstName":"","companyName":"Nationwide Insurance","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.nationwide.com","recordId":"RSI_44","contactState":"","contactFullName":"Mike Leach","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:03,279 [pool-1-thread-36] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marco.baldi@rockwellcollins.com","contactFirstName":"","companyName":"Rockwell Collins","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.rockwellcollins.com","recordId":"RSI_60","contactState":"","contactFullName":"Marco Baldi","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:03,279 [pool-1-thread-33] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"michele.delassusdoniol@alpes-martimes.gouv.fr","contactFirstName":"","companyName":"PREFECTURE DES ALPES MARITIMES","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/","recordId":"RSI_61","contactState":"","contactFullName":"Mich?le Delassus-Doniol","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"France","contactMiddleName":""}
+2020-07-20 12:42:03,281 [pool-1-thread-32] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"aoife.walsh@rsm.global","contactFirstName":"","companyName":"RSM Ireland","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.rsmireland.ie","recordId":"RSI_62","contactState":"","contactFullName":"Aoife Maria Walsh","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"Ireland","contactMiddleName":""}
+2020-07-20 12:42:03,302 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mparson@redhat.com","contactFirstName":"Matt","companyName":"Red Hat Incorporated","companyGuid":"","contactJobTitle":"","companyWebAddress":"www.redhat.com","recordId":"RSI_64","contactState":"","contactFullName":"","phone":"","contactLastName":"Parson","contactZipcode":"","contactCountry":"United States","contactMiddleName":""}
+2020-07-20 12:42:03,302 [pool-1-thread-27] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marcus.rich@timeincuk.com","contactFirstName":"Marcus.","companyName":"Time Inc. UK","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_65","contactState":"","contactFullName":"Marcus. Rich","phone":"","contactLastName":"Rich","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:03,307 [pool-1-thread-29] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marcus.whitehouse@concentricab.com","contactFirstName":"Marcus","companyName":"Concentric AB","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_63","contactState":"","contactFullName":"Marcus Whitehouse","phone":"","contactLastName":"Whitehouse","contactZipcode":"","contactCountry":"United Kingdom","contactMiddleName":""}
+2020-07-20 12:42:03,390 [pool-1-thread-25] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Mario","companyName":"City of Canning","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_66","contactState":"","contactFullName":"","phone":"","contactLastName":"D'Alessandro","contactZipcode":"","contactCountry":"Australia","contactMiddleName":""}
+2020-07-20 12:42:03,395 [pool-1-thread-26] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mamdouh.mohamed@olamnet.com","contactFirstName":"Mamdouh","companyName":"OLAM International","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_67","contactState":"","contactFullName":"","phone":"","contactLastName":"Mohamed","contactZipcode":"","contactCountry":"Singapore","contactMiddleName":""}
+2020-07-20 12:42:03,452 [pool-1-thread-24] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"martin.renwick@brambles.com","contactFirstName":"Martin","companyName":"Brambles Limited","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_69","contactState":"","contactFullName":"","phone":"","contactLastName":"Renwick","contactZipcode":"","contactCountry":"Australia","contactMiddleName":""}
+2020-07-20 12:42:03,453 [pool-1-thread-23] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"gauge@apmfrance.com","contactFirstName":"M","companyName":"APM","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_68","contactState":"","contactFullName":"M GUILLAUME","phone":"","contactLastName":"GUILLAUME","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,458 [pool-1-thread-21] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marcelo.palmeiro@clover.co.za","contactFirstName":"Marcelo","companyName":"Clover South Africa","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_71","contactState":"","contactFullName":"","phone":"","contactLastName":"Palmeiro","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,461 [pool-1-thread-22] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"","contactFirstName":"Masa","companyName":"Juken New Zealand Ltd","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_70","contactState":"","contactFullName":"","phone":"","contactLastName":"Ueki","contactZipcode":"","contactCountry":"New Zealand","contactMiddleName":""}
+2020-07-20 12:42:03,461 [pool-1-thread-20] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mark.brewer@fidessa.com","contactFirstName":"","companyName":"&%&^$&???","companyGuid":"","contactJobTitle":"","companyWebAddress":"http:\/\/www.fidessa.com","recordId":"RSI_73","contactState":"","contactFullName":"Mark Brewer, CISM CRISC CISA","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,461 [pool-1-thread-19] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"angeloc@miltenyibiotec.de","contactFirstName":"","companyName":"Clover South Africa","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_72","contactState":"","contactFullName":"Marcelo Palmeiro","phone":"","contactLastName":"","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,465 [pool-1-thread-18] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mabatho.manchidi@eoh.co.za","contactFirstName":"Mabatho","companyName":"EOH Mthombo (Pty) Ltd trading as Netcure","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_74","contactState":"","contactFullName":"","phone":"","contactLastName":"Manchidi","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,466 [pool-1-thread-17] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"kotzem@za.innovation-group.com","contactFirstName":"M","companyName":"Innovation Group ZA","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_75","contactState":"","contactFullName":"","phone":"","contactLastName":"Kotze","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,468 [pool-1-thread-16] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"s.cueff@sitma.fr","contactFirstName":"M","companyName":"SITMA","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_76","contactState":"","contactFullName":"M CUEFF","phone":"","contactLastName":"CUEFF","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,470 [pool-1-thread-14] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"machmud.mudmach@henkel.com","contactFirstName":"Machmud","companyName":"Henkel AG & Co KgaA","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_77","contactState":"","contactFullName":"","phone":"","contactLastName":"Mudmach","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,483 [pool-1-thread-15] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"m-jarry@a-d.fr","contactFirstName":"M","companyName":"AUTO DISTRIBUTION RETOURS MARCHANDISES","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_78","contactState":"","contactFullName":"M JARRY","phone":"","contactLastName":"JARRY","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,485 [pool-1-thread-12] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mg.ravindran@shangri-la.com","contactFirstName":"M G","companyName":"Shangri-La Hotels and Resorts","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_79","contactState":"","contactFullName":"","phone":"","contactLastName":"Ravindran","contactZipcode":"","contactCountry":"Malaysia","contactMiddleName":""}
+2020-07-20 12:42:03,491 [pool-1-thread-13] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"marco.wiltjer@enexis.nl","contactFirstName":"Marco","companyName":"Enexis Groep","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_80","contactState":"","contactFullName":"Marco Wiltjer","phone":"","contactLastName":"Wiltjer","contactZipcode":"","contactCountry":"Netherlands","contactMiddleName":""}
+2020-07-20 12:42:03,491 [pool-1-thread-11] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"maarten.barmentlo@sivantos.com","contactFirstName":"Maarten","companyName":"Sivantos Group","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_81","contactState":"","contactFullName":"Maarten Barmentlo","phone":"","contactLastName":"Barmentlo","contactZipcode":"","contactCountry":"Germany","contactMiddleName":""}
+2020-07-20 12:42:03,491 [pool-1-thread-10] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"m-pires@a-d.fr","contactFirstName":"M","companyName":"AUTO DISTRIBUTION RETOURS MARCHANDISES","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_82","contactState":"","contactFullName":"M PIRES","phone":"","contactLastName":"PIRES","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,495 [pool-1-thread-8] INFO  utility.callAPISSL - Error records :401 :: null :: {"contactGuid":"","contactEmail":"mcollier@anglogold.com","contactFirstName":"M","companyName":"AngloGold Ashanti Limited","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"RSI_83","contactState":"","contactFullName":"","phone":"","contactLastName":"Collier","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+2020-07-20 12:42:03,496 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:42:03,502 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:44:09,121 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:44:09,166 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:44:16,255 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,035 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,063 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,070 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,072 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,076 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,084 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,087 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,092 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,095 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,153 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,160 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,162 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,163 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,165 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,167 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,164 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,168 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,173 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,176 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,180 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,187 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,223 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,254 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,255 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,256 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,260 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,513 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,544 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,547 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,638 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,641 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:18,697 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:19,856 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:19,903 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,031 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,093 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,439 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,643 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,648 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,684 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:20,685 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,126 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,430 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,435 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,466 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,523 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,524 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,525 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,532 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,593 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,605 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,611 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,616 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,731 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,749 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,756 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,757 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,772 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,774 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,792 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,794 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,795 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,822 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,826 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,832 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,846 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,922 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,930 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,962 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,974 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:21,990 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,000 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,007 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,021 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,164 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,201 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,351 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:22,670 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:23,137 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:23,338 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:29,512 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:39,119 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:44:39,119 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:44:39,167 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:45:27,578 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:45:27,605 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:45:27,844 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,845 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,859 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,861 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,902 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,936 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,956 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:27,959 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,004 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,037 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,062 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,157 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,169 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,201 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,242 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,282 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,282 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,388 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,636 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,649 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,666 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,685 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,716 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,726 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,727 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,899 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,907 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,913 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,949 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:28,953 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,061 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,062 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,077 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,240 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,305 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,323 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,457 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,461 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,496 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,587 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,604 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,680 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,694 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,698 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,799 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,803 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:29,831 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,072 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,087 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,119 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,134 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,166 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,197 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,197 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,213 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,228 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,259 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,259 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,369 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,384 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,400 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,447 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,447 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,462 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,478 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,478 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,494 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,525 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,556 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,650 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,650 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,666 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,666 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,791 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,826 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,849 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,850 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,877 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,887 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,892 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,900 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,909 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,910 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-20 12:45:30,910 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 12:45:30,956 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\RSI.csv
+2020-07-20 13:45:57,549 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file :: C:\Code\Modes_Automation\input\100 recspc con active nth guids.csv
+2020-07-20 13:45:57,575 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread started :: C:\Code\Modes_Automation\input\100 recspc con active nth guids.csv
+2020-07-20 13:45:57,738 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:45:57,795 [pool-1-thread-28] INFO  utility.callAPISSL - Error records :400 :: null :: {"contactGuid":"9D7C981BFE2AD7C5D44E1B7098819FE8","contactEmail":"","contactFirstName":"Carolina","companyName":"MinisteriodeEducación","companyGuid":"","contactJobTitle":"Docente","companyWebAddress":"","recordId":"Rd28","contactState":"","contactFullName":"CarolinaPerazza","phone":"","contactLastName":"Perazza","contactZipcode":"","contactCountry":"Argentina","contactMiddleName":""}
+2020-07-20 13:45:59,088 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:45:59,520 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,384 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,511 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,555 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,600 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,682 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:00,712 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:01,178 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:01,781 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:01,879 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:01,923 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,001 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,060 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,236 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,237 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,370 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,453 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,538 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:02,931 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,072 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,244 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,306 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,369 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,478 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,572 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,603 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,858 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,969 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:03,987 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,115 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,191 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,358 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,365 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,418 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,460 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,527 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,636 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,654 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,726 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,749 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,884 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,900 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,931 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,931 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,963 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:04,994 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,009 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,119 [pool-1-thread-25] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,166 [pool-1-thread-48] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,275 [pool-1-thread-47] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,275 [pool-1-thread-27] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,291 [pool-1-thread-23] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,369 [pool-1-thread-37] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,697 [pool-1-thread-31] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,728 [pool-1-thread-34] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,837 [pool-1-thread-29] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:05,884 [pool-1-thread-15] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,088 [pool-1-thread-40] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,104 [pool-1-thread-41] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,134 [pool-1-thread-20] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,166 [pool-1-thread-6] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,181 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,212 [pool-1-thread-11] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,447 [pool-1-thread-39] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,494 [pool-1-thread-10] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,728 [pool-1-thread-16] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,744 [pool-1-thread-49] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,759 [pool-1-thread-26] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,775 [pool-1-thread-35] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,810 [pool-1-thread-21] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,822 [pool-1-thread-5] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,822 [pool-1-thread-50] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,838 [pool-1-thread-32] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,853 [pool-1-thread-42] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,853 [pool-1-thread-4] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,869 [pool-1-thread-43] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,869 [pool-1-thread-38] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,916 [pool-1-thread-30] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:06,916 [pool-1-thread-45] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,087 [pool-1-thread-28] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,244 [pool-1-thread-8] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,275 [pool-1-thread-22] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,338 [pool-1-thread-24] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,509 [pool-1-thread-9] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,509 [pool-1-thread-7] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,525 [pool-1-thread-14] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,650 [pool-1-thread-3] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,650 [pool-1-thread-46] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,712 [pool-1-thread-44] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,712 [pool-1-thread-13] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,744 [pool-1-thread-19] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,744 [pool-1-thread-17] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:07,952 [pool-1-thread-12] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:08,872 [pool-1-thread-33] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:09,306 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:09,402 [pool-1-thread-36] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:25,438 [pool-1-thread-18] INFO  utility.callAPISSL - Success ::
+2020-07-20 13:46:25,439 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Thread complete:: C:\Code\Modes_Automation\input\100 recspc con active nth guids.csv
+2020-07-20 13:46:25,470 [TestNG-test=Test-1] INFO  utility.csvSSLRead - Reading file complete:: C:\Code\Modes_Automation\input\100 recspc con active nth guids.csv

@@ -90,7 +90,7 @@ public class PEAPI_Generic_Tran_tests extends APIBaseTest {
 				"isEmailJunk","isConNameJunk","isCompNameJunk","isEmailEligible","isConNameEligible","isCompNameEligible","isCompGuidEligible",
 				"isCompWebEligible");
 			
-			tran.updateExcelCell(lstPEOutput, sheet, row, res);
+	//		tran.updateExcelCell(lstPEOutput, sheet, row, res);
 		}
 			
 			String fileName = file.substring(file.lastIndexOf('/') + 1);

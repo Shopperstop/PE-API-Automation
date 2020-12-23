@@ -3,15 +3,12 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test thread-count="5" verbose="0" name="Test(failed)" parallel="methods">
     <classes>
-      <class name="com.smarteinc.api.tests.MatchBackTest">
+      <class name="com.smarteinc.api.tests.PEApiExecutionWithCSVTest">
         <methods>
-          <include name="GenericPEAPIMatchBackTestSet1"/>
-          <include name="GenericPEAPIMatchBackTestSet2"/>
           <include name="beforeTest"/>
-          <include name="teardownManagers"/>
-          <include name="intializeManager"/>
+          <include name="readCSV"/>
         </methods>
-      </class> <!-- com.smarteinc.api.tests.MatchBackTest -->
+      </class> <!-- com.smarteinc.api.tests.PEApiExecutionWithCSVTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
